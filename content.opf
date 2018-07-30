@@ -6,7 +6,7 @@
     <dc:date>0101-01-01T00:00:00+00:00</dc:date>
     <dc:description>&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;http://kisswood.fr/kumo-desu-ga-nani-ka/&lt;/font&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;Translation by Kiss Wood (FarawayPain)&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face="Segoe UI, sans-serif" size="2"&gt;Chapters 001 to 201&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</dc:description>
     <dc:contributor opf:role="bkp">calibre (3.27.1) [https://calibre-ebook.com]</dc:contributor>
-    <dc:language>en</dc:language>
+    <dc:language>fr</dc:language>
     <meta name="calibre:timestamp" content="2018-07-06T16:52:38.790000+00:00"/>
     <meta name="cover" content="cover"/>
     <meta name="calibre:title_sort" content="Kumo Desu Ga, Nani Ka ?"/>
@@ -19,7 +19,28 @@
     <item href="text/cover2.xhtml" id="cover-html-2" media-type="application/xhtml+xml"/>
     <item href="text/cover3.xhtml" id="cover-html-3" media-type="application/xhtml+xml"/>
     <item href="text/cover4.xhtml" id="cover-html-4" media-type="application/xhtml+xml"/>
-    <!--<item href="text/part0001.html" id="page-1" media-type="application/xhtml+xml"/>-->
+    <item href="text/part0001.html" id="page-1" media-type="application/xhtml+xml"/>
+	<item href="text/part0002.html" id="page-2" media-type="application/xhtml+xml"/>
+	<item href="text/part0003.html" id="page-3" media-type="application/xhtml+xml"/>
+	<item href="text/part0004.html" id="page-4" media-type="application/xhtml+xml"/>
+	<item href="text/part0005.html" id="page-5" media-type="application/xhtml+xml"/>
+	<item href="text/part0006.html" id="page-6" media-type="application/xhtml+xml"/>
+	<item href="text/part0007.html" id="page-7" media-type="application/xhtml+xml"/>
+	<item href="text/part0008.html" id="page-8" media-type="application/xhtml+xml"/>
+	<item href="text/part0009.html" id="page-9" media-type="application/xhtml+xml"/>
+	<item href="text/part0010.html" id="page-10" media-type="application/xhtml+xml"/>
+	<item href="text/part0010-5.html" id="page-10-5" media-type="application/xhtml+xml"/>
+	<item href="text/part0011.html" id="page-11" media-type="application/xhtml+xml"/>
+	<item href="text/part0012.html" id="page-12" media-type="application/xhtml+xml"/>
+	<item href="text/part0013.html" id="page-13" media-type="application/xhtml+xml"/>
+	<item href="text/part0014.html" id="page-14" media-type="application/xhtml+xml"/>
+	<item href="text/part0015.html" id="page-15" media-type="application/xhtml+xml"/>
+	<item href="text/part0016.html" id="page-16" media-type="application/xhtml+xml"/>
+	<item href="text/part0017.html" id="page-17" media-type="application/xhtml+xml"/>
+	<item href="text/part0018.html" id="page-18" media-type="application/xhtml+xml"/>
+	<item href="text/part0019.html" id="page-19" media-type="application/xhtml+xml"/>
+	<item href="text/part0020.html" id="page-20" media-type="application/xhtml+xml"/>
+	<item href="text/part0020-5.html" id="page-20-5" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
     <item href="style/cover.css" id="css_cover" media-type="text/css"/>
     <item href="style/text.css" id="css_text" media-type="text/css"/>
@@ -35,7 +56,28 @@
     <itemref idref="cover-html-2"/>
     <itemref idref="cover-html-3"/>
     <itemref idref="cover-html-4"/>
-    <!--<itemref idref="page-1"/>-->
+    <itemref idref="page-1"/>
+	<itemref idref="page-2"/>
+	<itemref idref="page-3"/>
+	<itemref idref="page-4"/>
+	<itemref idref="page-5"/>
+	<itemref idref="page-6"/>
+	<itemref idref="page-7"/>
+	<itemref idref="page-8"/>
+	<itemref idref="page-9"/>
+	<itemref idref="page-10"/>
+	<itemref idref="page-10-5"/>
+	<itemref idref="page-11"/>
+	<itemref idref="page-12"/>
+	<itemref idref="page-13"/>
+	<itemref idref="page-14"/>
+	<itemref idref="page-15"/>
+	<itemref idref="page-16"/>
+	<itemref idref="page-17"/>
+	<itemref idref="page-18"/>
+	<itemref idref="page-19"/>
+	<itemref idref="page-20"/>
+	<itemref idref="page-20-5"/>
   </spine>
   <guide>
     <reference href="text/part0000.html#body-0" title="Title Page" type="title-page"/>

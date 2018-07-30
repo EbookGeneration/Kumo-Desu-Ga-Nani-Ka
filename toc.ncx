@@ -17,5 +17,137 @@
 			</navLabel>
 			<content src="text/part0000.html#body-0"/>
 		</navPoint>
+		<navPoint class="chapter" id="num_1" playOrder="1">
+			<navLabel>
+				<text>001 - Prologue</text>
+			</navLabel>
+			<content src="text/part0001.html#body-1"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_2" playOrder="2">
+			<navLabel>
+				<text>002 - Il semblerait que je sois un monstre</text>
+			</navLabel>
+			<content src="text/part0002.html#body-2"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_3" playOrder="3">
+			<navLabel>
+				<text>003 - Il fut un temps où je pensais que « Analyse » était une compétence hors normes</text>
+			</navLabel>
+			<content src="text/part0003.html#body-3"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_4" playOrder="4">
+			<navLabel>
+				<text>004 - Explorer un donjon pour la première fois</text>
+			</navLabel>
+			<content src="text/part0004.html#body-4"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_5" playOrder="5">
+			<navLabel>
+				<text>005 - Une nouvelle maison</text>
+			</navLabel>
+			<content src="text/part0005.html#body-5"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_6" playOrder="6">
+			<navLabel>
+				<text>006 - Je ne regrette pas de l’avoir mangée</text>
+			</navLabel>
+			<content src="text/part0006.html#body-6"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_7" playOrder="7">
+			<navLabel>
+				<text>007 - 24h de vacances tous les jours</text>
+			</navLabel>
+			<content src="text/part0007.html#body-7"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_8" playOrder="8">
+			<navLabel>
+				<text>008 - Une araignée sans cerveau n’est qu’une araignée</text>
+			</navLabel>
+			<content src="text/part0008.html#body-8"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_9" playOrder="9">
+			<navLabel>
+				<text>009 - Vérification des compétences</text>
+			</navLabel>
+			<content src="text/part0009.html#body-9"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_10" playOrder="10">
+			<navLabel>
+				<text>010 - J’ai gagné un niveau !</text>
+			</navLabel>
+			<content src="text/part0010.html#body-10"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_10-5" playOrder="10.5">
+			<navLabel>
+				<text>010.5 - S1 - Le jour où une vie tranquille s’est arrêtée</text>
+			</navLabel>
+			<content src="text/part0010-5.html#body-10-5"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_11" playOrder="11">
+			<navLabel>
+				<text>011 - I~to maki maki i~to maki maki♪</text>
+			</navLabel>
+			<content src="text/part0011.html#body-11"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_12" playOrder="12">
+			<navLabel>
+				<text>012 - Une réunion touchante (lol)</text>
+			</navLabel>
+			<content src="text/part0012.html#body-12"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_13" playOrder="13">
+			<navLabel>
+				<text>013 - J’ai reçu un titre déshonorant</text>
+			</navLabel>
+			<content src="text/part0013.html#body-13"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_14" playOrder="14">
+			<navLabel>
+				<text>014 - Le chapitre de la reconstruction</text>
+			</navLabel>
+			<content src="text/part0014.html#body-14"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_15" playOrder="15">
+			<navLabel>
+				<text>015 - Le moment où j’ai perdu mon paradis</text>
+			</navLabel>
+			<content src="text/part0015.html#body-15"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_16" playOrder="16">
+			<navLabel>
+				<text>016 - Quitter le nid</text>
+			</navLabel>
+			<content src="text/part0016.html#body-16"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_17" playOrder="17">
+			<navLabel>
+				<text>017 - J’ai utilisé un coup bas dans un duel à armes égales !</text>
+			</navLabel>
+			<content src="text/part0017.html#body-17"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_18" playOrder="18">
+			<navLabel>
+				<text>018 - La guérison totale après être resté à l’auberge n’arrive que dans les jeux vidéos</text>
+			</navLabel>
+			<content src="text/part0018.html#body-18"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_19" playOrder="19">
+			<navLabel>
+				<text>019 - Ce n’est pas si grave de rater sa cible !</text>
+			</navLabel>
+			<content src="text/part0019.html#body-19"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_20" playOrder="20">
+			<navLabel>
+				<text>020 - Je suis une araignée, juste derrière toi.</text>
+			</navLabel>
+			<content src="text/part0020.html#body-20"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_20-5" playOrder="20.5">
+			<navLabel>
+				<text>020.5 - S2 - Le quatrième prince</text>
+			</navLabel>
+			<content src="text/part0020-5.html#body-20-5"/>
+		</navPoint>
 	</navMap>
 </ncx>
