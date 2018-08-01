@@ -287,5 +287,77 @@
 			</navLabel>
 			<content src="text/part0040-5.html#body-40-5"/>
 		</navPoint>
+		<navPoint class="chapter" id="num_41" playOrder="41">
+			<navLabel>
+				<text>041 - J’ai atteint le tant espéré niveau supérieur !</text>
+			</navLabel>
+			<content src="text/part0041.html#body-41"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_42" playOrder="42">
+			<navLabel>
+				<text>042 - Araignée VS Abeille 4</text>
+			</navLabel>
+			<content src="text/part0042.html#body-42"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_43" playOrder="43">
+			<navLabel>
+				<text>043 - Araignée VS Dragon de Terre……..Eh ?</text>
+			</navLabel>
+			<content src="text/part0043.html#body-43"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_44" playOrder="44">
+			<navLabel>
+				<text>044 - Fuir le désespoir</text>
+			</navLabel>
+			<content src="text/part0044.html#body-44"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_45" playOrder="45">
+			<navLabel>
+				<text>045 - Le grand labyrinthe d’Elro, Couche inférieur</text>
+			</navLabel>
+			<content src="text/part0045.html#body-45"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_45-5" playOrder="45.5">
+			<navLabel>
+				<text>045.5 - S6 - Statut</text>
+			</navLabel>
+			<content src="text/part0045-5.html#body-45-5"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_46" playOrder="46">
+			<navLabel>
+				<text>046 - C’est la loi de la jungle, enfin je croyais mais…</text>
+			</navLabel>
+			<content src="text/part0046.html#body-46"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_47" playOrder="47">
+			<navLabel>
+				<text>047 - Poison poison</text>
+			</navLabel>
+			<content src="text/part0047.html#body-47"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_48" playOrder="48">
+			<navLabel>
+				<text>048 - Bifurcation, routes ?</text>
+			</navLabel>
+			<content src="text/part0048.html#body-48"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_49" playOrder="49">
+			<navLabel>
+				<text>049 - Après tout Analyse-san, tu es vraiment une compétence qui dépasse l’entendement</text>
+			</navLabel>
+			<content src="text/part0049.html#body-49"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_50" playOrder="50">
+			<navLabel>
+				<text>050 - Mahou Shoujo Magical Kumoko ♫ (voir note)</text>
+			</navLabel>
+			<content src="text/part0050.html#body-50"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_50-5" playOrder="50.5">
+			<navLabel>
+				<text>050.5 - S7 - La fille du Duc</text>
+			</navLabel>
+			<content src="text/part0050-5.html#body-50-5"/>
+		</navPoint>
 	</navMap>
 </ncx>

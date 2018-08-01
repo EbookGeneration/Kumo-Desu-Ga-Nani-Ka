@@ -65,6 +65,18 @@
 	<item href="text/part0039.html" id="page-39" media-type="application/xhtml+xml"/>
 	<item href="text/part0040.html" id="page-40" media-type="application/xhtml+xml"/>
 	<item href="text/part0040-5.html" id="page-40-5" media-type="application/xhtml+xml"/>
+	<item href="text/part0041.html" id="page-41" media-type="application/xhtml+xml"/>
+	<item href="text/part0042.html" id="page-42" media-type="application/xhtml+xml"/>
+	<item href="text/part0043.html" id="page-43" media-type="application/xhtml+xml"/>
+	<item href="text/part0044.html" id="page-44" media-type="application/xhtml+xml"/>
+	<item href="text/part0045.html" id="page-45" media-type="application/xhtml+xml"/>
+	<item href="text/part0045-5.html" id="page-45-5" media-type="application/xhtml+xml"/>
+	<item href="text/part0046.html" id="page-46" media-type="application/xhtml+xml"/>
+	<item href="text/part0047.html" id="page-47" media-type="application/xhtml+xml"/>
+	<item href="text/part0048.html" id="page-48" media-type="application/xhtml+xml"/>
+	<item href="text/part0049.html" id="page-49" media-type="application/xhtml+xml"/>
+	<item href="text/part0050.html" id="page-50" media-type="application/xhtml+xml"/>
+	<item href="text/part0050-5.html" id="page-50-5" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
     <item href="style/cover.css" id="css_cover" media-type="text/css"/>
     <item href="style/text.css" id="css_text" media-type="text/css"/>
@@ -125,6 +137,18 @@
 	<itemref idref="page-39"/>
 	<itemref idref="page-40"/>
 	<itemref idref="page-40-5"/>
+	<itemref idref="page-41"/>
+	<itemref idref="page-42"/>
+	<itemref idref="page-43"/>
+	<itemref idref="page-44"/>
+	<itemref idref="page-45"/>
+	<itemref idref="page-45-5"/>
+	<itemref idref="page-46"/>
+	<itemref idref="page-47"/>
+	<itemref idref="page-48"/>
+	<itemref idref="page-49"/>
+	<itemref idref="page-50"/>
+	<itemref idref="page-50-5"/>
   </spine>
   <guide>
     <reference href="text/part0000.html#body-0" title="Title Page" type="title-page"/>
