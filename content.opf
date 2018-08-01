@@ -1,5 +1,5 @@
-<?xml version="1.0"  encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uESN2Um6Gi9VMIgVGW9lW6G" version="2.0">
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:title>Kumo Desu Ga, Nani Ka ?</dc:title>
     <dc:creator opf:role="aut" opf:file-as="Okina, Baba">Baba Okina</dc:creator>
@@ -12,6 +12,7 @@
     <meta name="calibre:title_sort" content="Kumo Desu Ga, Nani Ka ?"/>
     <meta content="horizontal-lr" name="primary-writing-mode"/>
     <meta name="calibre:author_link_map" content="{&quot;Baba Okina&quot;: &quot;&quot;}"/>
+    <dc:identifier id="uESN2Um6Gi9VMIgVGW9lW6G" opf:scheme="uuid">uESN2Um6Gi9VMIgVGW9lW6G</dc:identifier>
   </metadata>
   <manifest>
     <item href="text/part0000.html" id="page-0" media-type="application/xhtml+xml"/>
@@ -41,6 +42,29 @@
 	<item href="text/part0019.html" id="page-19" media-type="application/xhtml+xml"/>
 	<item href="text/part0020.html" id="page-20" media-type="application/xhtml+xml"/>
 	<item href="text/part0020-5.html" id="page-20-5" media-type="application/xhtml+xml"/>
+	<item href="text/part0021.html" id="page-21" media-type="application/xhtml+xml"/>
+	<item href="text/part0022.html" id="page-22" media-type="application/xhtml+xml"/>
+	<item href="text/part0023.html" id="page-23" media-type="application/xhtml+xml"/>
+	<item href="text/part0024.html" id="page-24" media-type="application/xhtml+xml"/>
+	<item href="text/part0025.html" id="page-25" media-type="application/xhtml+xml"/>
+	<item href="text/part0026.html" id="page-26" media-type="application/xhtml+xml"/>
+	<item href="text/part0027.html" id="page-27" media-type="application/xhtml+xml"/>
+	<item href="text/part0028.html" id="page-28" media-type="application/xhtml+xml"/>
+	<item href="text/part0029.html" id="page-29" media-type="application/xhtml+xml"/>
+	<item href="text/part0030.html" id="page-30" media-type="application/xhtml+xml"/>
+	<item href="text/part0030-5.html" id="page-30-5" media-type="application/xhtml+xml"/>
+	<item href="text/part0031.html" id="page-31" media-type="application/xhtml+xml"/>
+	<item href="text/part0032.html" id="page-32" media-type="application/xhtml+xml"/>
+	<item href="text/part0033.html" id="page-33" media-type="application/xhtml+xml"/>
+	<item href="text/part0034.html" id="page-34" media-type="application/xhtml+xml"/>
+	<item href="text/part0035.html" id="page-35" media-type="application/xhtml+xml"/>
+	<item href="text/part0035-5.html" id="page-35-5" media-type="application/xhtml+xml"/>
+	<item href="text/part0036.html" id="page-36" media-type="application/xhtml+xml"/>
+	<item href="text/part0037.html" id="page-37" media-type="application/xhtml+xml"/>
+	<item href="text/part0038.html" id="page-38" media-type="application/xhtml+xml"/>
+	<item href="text/part0039.html" id="page-39" media-type="application/xhtml+xml"/>
+	<item href="text/part0040.html" id="page-40" media-type="application/xhtml+xml"/>
+	<item href="text/part0040-5.html" id="page-40-5" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
     <item href="style/cover.css" id="css_cover" media-type="text/css"/>
     <item href="style/text.css" id="css_text" media-type="text/css"/>
@@ -78,6 +102,29 @@
 	<itemref idref="page-19"/>
 	<itemref idref="page-20"/>
 	<itemref idref="page-20-5"/>
+	<itemref idref="page-21"/>
+	<itemref idref="page-22"/>
+	<itemref idref="page-23"/>
+	<itemref idref="page-24"/>
+	<itemref idref="page-25"/>
+	<itemref idref="page-26"/>
+	<itemref idref="page-27"/>
+	<itemref idref="page-28"/>
+	<itemref idref="page-29"/>
+	<itemref idref="page-30"/>
+	<itemref idref="page-30-5"/>
+	<itemref idref="page-31"/>
+	<itemref idref="page-32"/>
+	<itemref idref="page-33"/>
+	<itemref idref="page-34"/>
+	<itemref idref="page-35"/>
+	<itemref idref="page-35-5"/>
+	<itemref idref="page-36"/>
+	<itemref idref="page-37"/>
+	<itemref idref="page-38"/>
+	<itemref idref="page-39"/>
+	<itemref idref="page-40"/>
+	<itemref idref="page-40-5"/>
   </spine>
   <guide>
     <reference href="text/part0000.html#body-0" title="Title Page" type="title-page"/>
