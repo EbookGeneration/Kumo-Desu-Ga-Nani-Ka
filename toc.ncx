@@ -359,5 +359,149 @@
 			</navLabel>
 			<content src="text/part0050-5.html#body-50-5"/>
 		</navPoint>
+		<navPoint class="chapter" id="num_51" playOrder="51">
+			<navLabel>
+				<text>051 - Est-ce que ce n’est pas génial de pouvoir connaître la force des ennemis ?</text>
+			</navLabel>
+			<content src="text/part0051.html#body-51"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_52" playOrder="52">
+			<navLabel>
+				<text>052 - Fil et tristesse et sentiments et…</text>
+			</navLabel>
+			<content src="text/part0052.html#body-52"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_53" playOrder="53">
+			<navLabel>
+				<text>053 - Je suis devenue plus forte, enfin un peu</text>
+			</navLabel>
+			<content src="text/part0053.html#body-53"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_54" playOrder="54">
+			<navLabel>
+				<text>054 - Sommeil tranquille, bonne stratégie !</text>
+			</navLabel>
+			<content src="text/part0054.html#body-54"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_55" playOrder="55">
+			<navLabel>
+				<text>055 - Le siège à 100 mètres du sol 1</text>
+			</navLabel>
+			<content src="text/part0055.html#body-55"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_55-5" playOrder="55.5">
+			<navLabel>
+				<text>055.5 - S8 - L’encyclopédie des compétences</text>
+			</navLabel>
+			<content src="text/part0055-5.html#body-55-5"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_56" playOrder="56">
+			<navLabel>
+				<text>056 - Le siège à 100 mètres du sol 2</text>
+			</navLabel>
+			<content src="text/part0056.html#body-56"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_57" playOrder="57">
+			<navLabel>
+				<text>057 - Le siège à 100 mètres du sol 3</text>
+			</navLabel>
+			<content src="text/part0057.html#body-57"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_58" playOrder="58">
+			<navLabel>
+				<text>058 - Le siège à 100 mètres du sol 4</text>
+			</navLabel>
+			<content src="text/part0058.html#body-58"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_59" playOrder="59">
+			<navLabel>
+				<text>059 - Le siège à 100 mètres du sol 5</text>
+			</navLabel>
+			<content src="text/part0059.html#body-59"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_60" playOrder="60">
+			<navLabel>
+				<text>060 - Le siège à 100 mètres du sol FIN</text>
+			</navLabel>
+			<content src="text/part0060.html#body-60"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_60-5" playOrder="60.5">
+			<navLabel>
+				<text>060.5 - S9 - Points de compétence</text>
+			</navLabel>
+			<content src="text/part0060-5.html#body-60-5"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_61" playOrder="61">
+			<navLabel>
+				<text>061 - Je vais évoluer !</text>
+			</navLabel>
+			<content src="text/part0061.html#body-61"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_62" playOrder="62">
+			<navLabel>
+				<text>062 - Araignée Venimeuse</text>
+			</navLabel>
+			<content src="text/part0062.html#body-62"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_63" playOrder="63">
+			<navLabel>
+				<text>063 - Analyse-san, ou plutôt Analyse-sama !</text>
+			</navLabel>
+			<content src="text/part0063.html#body-63"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_64" playOrder="64">
+			<navLabel>
+				<text>064 - Analyse-sama est vraiment quelqu’un d’intelligent</text>
+			</navLabel>
+			<content src="text/part0064.html#body-64"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_65" playOrder="65">
+			<navLabel>
+				<text>065 - Fierté</text>
+			</navLabel>
+			<content src="text/part0065.html#body-65"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_65-5" playOrder="65.5">
+			<navLabel>
+				<text>065.5 - S10 - Le deuxième prince</text>
+			</navLabel>
+			<content src="text/part0065-5.html#body-65-5"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_66" playOrder="66">
+			<navLabel>
+				<text>066 - La ruée vers les compétences</text>
+			</navLabel>
+			<content src="text/part0066.html#body-66"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_67" playOrder="67">
+			<navLabel>
+				<text>067 - Un ennemi incroyable se dresse devant moi ! Son nom est Détection !</text>
+			</navLabel>
+			<content src="text/part0067.html#body-67"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_68" playOrder="68">
+			<navLabel>
+				<text>068 - La fin de la couche inférieure</text>
+			</navLabel>
+			<content src="text/part0068.html#body-68"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_69" playOrder="69">
+			<navLabel>
+				<text>069 - Le grand Labyrinthe d’Elro : Couche central</text>
+			</navLabel>
+			<content src="text/part0069.html#body-69"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_70" playOrder="70">
+			<navLabel>
+				<text>070 - Entraînement</text>
+			</navLabel>
+			<content src="text/part0070.html#body-70"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_70-5" playOrder="70.5">
+			<navLabel>
+				<text>070.5 - Y1 - Héros et roi</text>
+			</navLabel>
+			<content src="text/part0070-5.html#body-70-5"/>
+		</navPoint>
 	</navMap>
 </ncx>
