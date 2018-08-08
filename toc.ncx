@@ -503,5 +503,77 @@
 			</navLabel>
 			<content src="text/part0070-5.html#body-70-5"/>
 		</navPoint>
+		<navPoint class="chapter" id="num_71" playOrder="71">
+			<navLabel>
+				<text>071 - Maîtrise</text>
+			</navLabel>
+			<content src="text/part0071.html#body-71"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_72" playOrder="72">
+			<navLabel>
+				<text>072 - Le résultat de l’entraînement</text>
+			</navLabel>
+			<content src="text/part0072.html#body-72"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_73" playOrder="73">
+			<navLabel>
+				<text>073 - Et soudainement, une menace de mort</text>
+			</navLabel>
+			<content src="text/part0073.html#body-73"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_74" playOrder="74">
+			<navLabel>
+				<text>074 - La capture de la couche centrale commence</text>
+			</navLabel>
+			<content src="text/part0074.html#body-74"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_75" playOrder="75">
+			<navLabel>
+				<text>075 - C’est bien de pouvoir tout faire par soi-même, mais des fois c’est frustrant quand c’est fait par quelqu’un d’autre, non ?</text>
+			</navLabel>
+			<content src="text/part0075.html#body-75"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_75-5" playOrder="75.5">
+			<navLabel>
+				<text>075.5 - S11 - La fille Elfe</text>
+			</navLabel>
+			<content src="text/part0075-5.html#body-75-5"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_76" playOrder="76">
+			<navLabel>
+				<text>076 - Devenons encore plus chauds !</text>
+			</navLabel>
+			<content src="text/part0076.html#body-76"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_77" playOrder="77">
+			<navLabel>
+				<text>077 - Pas de chance</text>
+			</navLabel>
+			<content src="text/part0077.html#body-77"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_78" playOrder="78">
+			<navLabel>
+				<text>078 - …C’est une compétence incroyable</text>
+			</navLabel>
+			<content src="text/part0078.html#body-78"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_79" playOrder="79">
+			<navLabel>
+				<text>079 - Qu'est ce que ça fait d'être une araignée pleine de dangereux titres ?</text>
+			</navLabel>
+			<content src="text/part0079.html#body-79"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_80" playOrder="80">
+			<navLabel>
+				<text>080 - Araignée VS Drake de feu 1</text>
+			</navLabel>
+			<content src="text/part0080.html#body-80"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_80-5" playOrder="80.5">
+			<navLabel>
+				<text>080.5 - S12 - L’académie</text>
+			</navLabel>
+			<content src="text/part0080-5.html#body-80-5"/>
+		</navPoint>
 	</navMap>
 </ncx>
