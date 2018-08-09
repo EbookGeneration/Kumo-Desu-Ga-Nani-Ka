@@ -641,5 +641,71 @@
 			</navLabel>
 			<content src="text/part0090-5.html#body-90-5"/>
 		</navPoint>
+		<navPoint class="chapter" id="num_91" playOrder="91">
+			<navLabel>
+				<text>091 - Detection-san, tu étais un ennemi formidable</text>
+			</navLabel>
+			<content src="text/part0091.html#body-91"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_92" playOrder="92">
+			<navLabel>
+				<text>092 - Une fois de plus, je viens de couper un objet inutile</text>
+			</navLabel>
+			<content src="text/part0092.html#body-92"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_93" playOrder="93">
+			<navLabel>
+				<text>093 - La chose qui passe entre les couches</text>
+			</navLabel>
+			<content src="text/part0093.html#body-93"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_94" playOrder="94">
+			<navLabel>
+				<text>094 - Il y a besoin d’un sommet, donc continuons à aller vers le haut</text>
+			</navLabel>
+			<content src="text/part0094.html#body-94"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_95" playOrder="95">
+			<navLabel>
+				<text>095 - Monstres de rang supérieur</text>
+			</navLabel>
+			<content src="text/part0095.html#body-95"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_95-5" playOrder="95.5">
+			<navLabel>
+				<text>095.5 - S14 - La vie à l’académie</text>
+			</navLabel>
+			<content src="text/part0095-5.html#body-95-5"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_96" playOrder="96">
+			<navLabel>
+				<text>096 - Je pense donc je suis. Je bouge donc je suis. Je suis moi et moi, donc c’est moi</text>
+			</navLabel>
+			<content src="text/part0096.html#body-96"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_98" playOrder="98">
+			<navLabel>
+				<text>098 - Regarde moi dans les yeux !</text>
+			</navLabel>
+			<content src="text/part0098.html#body-98"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_99" playOrder="99">
+			<navLabel>
+				<text>099 - Puisque ce n’est qu’une idiote, je dois absolument l’endurer</text>
+			</navLabel>
+			<content src="text/part0099.html#body-99"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_100" playOrder="100">
+			<navLabel>
+				<text>100 - Oh ? Analyse-sama se transforme …?</text>
+			</navLabel>
+			<content src="text/part0100.html#body-100"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_100-5" playOrder="100.5">
+			<navLabel>
+				<text>100.5 - S15 - Classe du Roi</text>
+			</navLabel>
+			<content src="text/part0100-5.html#body-100-5"/>
+		</navPoint>
 	</navMap>
 </ncx>
