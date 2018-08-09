@@ -113,6 +113,18 @@
 		<item href="text/part0079.html" id="page-79" media-type="application/xhtml+xml"/>
 		<item href="text/part0080.html" id="page-80" media-type="application/xhtml+xml"/>
 		<item href="text/part0080-5.html" id="page-80-5" media-type="application/xhtml+xml"/>
+		<item href="text/part0081.html" id="page-81" media-type="application/xhtml+xml"/>
+		<item href="text/part0082.html" id="page-82" media-type="application/xhtml+xml"/>
+		<item href="text/part0083.html" id="page-83" media-type="application/xhtml+xml"/>
+		<item href="text/part0084.html" id="page-84" media-type="application/xhtml+xml"/>
+		<item href="text/part0085.html" id="page-85" media-type="application/xhtml+xml"/>
+		<item href="text/part0085-5.html" id="page-85-5" media-type="application/xhtml+xml"/>
+		<item href="text/part0086.html" id="page-86" media-type="application/xhtml+xml"/>
+		<item href="text/part0087.html" id="page-87" media-type="application/xhtml+xml"/>
+		<item href="text/part0088.html" id="page-88" media-type="application/xhtml+xml"/>
+		<item href="text/part0089.html" id="page-89" media-type="application/xhtml+xml"/>
+		<item href="text/part0090.html" id="page-90" media-type="application/xhtml+xml"/>
+		<item href="text/part0090-5.html" id="page-90-5" media-type="application/xhtml+xml"/>
 		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
 		<item href="style/cover.css" id="css_cover" media-type="text/css"/>
 		<item href="style/text.css" id="css_text" media-type="text/css"/>
@@ -221,6 +233,18 @@
 		<itemref idref="page-79"/>
 		<itemref idref="page-80"/>
 		<itemref idref="page-80-5"/>
+		<itemref idref="page-81"/>
+		<itemref idref="page-82"/>
+		<itemref idref="page-83"/>
+		<itemref idref="page-84"/>
+		<itemref idref="page-85"/>
+		<itemref idref="page-85-5"/>
+		<itemref idref="page-86"/>
+		<itemref idref="page-87"/>
+		<itemref idref="page-88"/>
+		<itemref idref="page-89"/>
+		<itemref idref="page-90"/>
+		<itemref idref="page-90-5"/>
 	</spine>
 	<guide>
 		<reference href="text/part0000.html#body-0" title="Title Page" type="title-page"/>

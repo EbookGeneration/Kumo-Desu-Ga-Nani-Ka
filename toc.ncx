@@ -575,5 +575,71 @@
 			</navLabel>
 			<content src="text/part0080-5.html#body-80-5"/>
 		</navPoint>
+		<navPoint class="chapter" id="num_81" playOrder="81">
+			<navLabel>
+				<text>081 - Araignée VS Drake de feu 2</text>
+			</navLabel>
+			<content src="text/part0081.html#body-81"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_82" playOrder="82">
+			<navLabel>
+				<text>082 - Araignée VS Drake de feu 3</text>
+			</navLabel>
+			<content src="text/part0082.html#body-82"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_83" playOrder="83">
+			<navLabel>
+				<text>083 - Araignée VS Drake de feu 4</text>
+			</navLabel>
+			<content src="text/part0083.html#body-83"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_84" playOrder="84">
+			<navLabel>
+				<text>084 - Araignée VS Drake de feu 5</text>
+			</navLabel>
+			<content src="text/part0084.html#body-84"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_85" playOrder="85">
+			<navLabel>
+				<text>085 - Araignée VS Drake de feu (Fin)</text>
+			</navLabel>
+			<content src="text/part0085.html#body-85"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_85-5" playOrder="85.5">
+			<navLabel>
+				<text>085.5 - S13 - Saint et l’empereur épée</text>
+			</navLabel>
+			<content src="text/part0085-5.html#body-85-5"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_86" playOrder="86">
+			<navLabel>
+				<text>086 - Danse de la victoire</text>
+			</navLabel>
+			<content src="text/part0086.html#body-86"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_87" playOrder="87">
+			<navLabel>
+				<text>087 - Je vais évoluer ! 3eme édition !</text>
+			</navLabel>
+			<content src="text/part0087.html#body-87"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_89" playOrder="89">
+			<navLabel>
+				<text>089 - Les changements causés par l’évolution</text>
+			</navLabel>
+			<content src="text/part0089.html#body-89"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_90" playOrder="90">
+			<navLabel>
+				<text>090 - Patience</text>
+			</navLabel>
+			<content src="text/part0090.html#body-90"/>
+		</navPoint>
+		<navPoint class="chapter" id="num_90-5" playOrder="90.5">
+			<navLabel>
+				<text>090.5 - K1 - La pessimiste fille du Duc</text>
+			</navLabel>
+			<content src="text/part0090-5.html#body-90-5"/>
+		</navPoint>
 	</navMap>
 </ncx>
