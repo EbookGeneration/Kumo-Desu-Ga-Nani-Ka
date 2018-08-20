@@ -16,3 +16,7 @@
     text-align: justify;
     margin: 0 5pt
 }
+
+.underline {
+	text-decoration: underline;
+}
