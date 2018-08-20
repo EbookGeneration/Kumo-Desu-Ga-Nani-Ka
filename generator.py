@@ -2,6 +2,7 @@
 import argparse
 import requests
 import re
+import sys
 import bs4
 import html5print
 
@@ -197,11 +198,22 @@ def format_chapter(body):
     
     body = re.sub(r"&#12302;(.+?)&#12303;", "[\\1]", body)                          # Replace [] for competance's name
     body = re.sub(r"&#12298;(.+?)&#12299;", "{\\1}", body)                          # Replace {} for "system" voice
-    body = re.sub(r"&#12300;(.+?)&#12301;<br />", "\"\\1\"<br_manual />", body)     # Replace 「」 for dialog
     
-    body = re.sub(r"(?:<br />\s*){3,}", "</p><p>***</p><p>", body)          # Replace long paragraph interval
-    body = re.sub(r"(?:<br />\s*){2}", "</p><p>", body)                     # Replace paragraph interval
-    body = re.sub(r"<br />\s*", " ", body)                                  # Replace line break
+    if re.search(r"<div>\s*<br />\s*</div>", body, re.IGNORECASE):        
+        body = re.sub(r"</div>\s*(?:<div>\s*<br />\s*</div>\s*){3,}\s*<div>\s*", "</p><p>***</p><p>", body)         # Replace long paragraph interval
+        body = re.sub(r"</div>\s*<div>\s*<br />\s*</div>\s*<div>\s*", "</p><p>", body)                              # Replace paragraph interval
+        body = re.sub(r"</div>\s*<div>\s*", " ", body)                                                              # Replace line break
+        
+        # Replace 「」 for dialog
+        body = re.sub(r"&#12301;\s*&#12300;", "\"<br_manual />\"", body)
+        body = re.sub(r"&#1230[01];", "\"", body)
+    else:
+        body = re.sub(r"&#12300;(.+?)&#12301;<br />", "\"\\1\"<br_manual />", body)             # Replace 「」 for dialog
+        
+        body = re.sub(r"(?:<br />\s*){3,}", "</p><p>***</p><p>", body)          # Replace long paragraph interval
+        body = re.sub(r"(?:<br />\s*){2}", "</p><p>", body)                     # Replace paragraph interval
+        body = re.sub(r"<br />\s*", " ", body)                                  # Replace line break
+    
     body = re.sub(r"<br_manual />", "<br />", body)                         # Replace manual line break
     body = re.sub(r"<p>\s*</p>", "", body)                                  # Replace empty paragraph
     
