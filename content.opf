@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uSG9pXKYYUUNCS47EJwtMh3" version="2.0">
-	<metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version="1.0" encoding="utf-8"?>
+<package unique-identifier="uSG9pXKYYUUNCS47EJwtMh3" version="2.0" xmlns="http://www.idpf.org/2007/opf">
+	<opf:metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 		<dc:title>Kumo Desu Ga, Nani Ka ?</dc:title>
-		<dc:creator opf:role="aut" opf:file-as="Okina, Baba">Baba Okina</dc:creator>
+		<dc:creator opf:file-as="Okina, Baba" opf:role="aut">Baba Okina</dc:creator>
 		<dc:date>0101-01-01T00:00:00+00:00</dc:date>
 		<dc:contributor opf:role="bkp">calibre (3.27.1) [https://calibre-ebook.com]</dc:contributor>
 		<dc:identifier id="uSG9pXKYYUUNCS47EJwtMh3" opf:scheme="uuid">uSG9pXKYYUUNCS47EJwtMh3</dc:identifier>
@@ -12,7 +12,7 @@
 		<opf:meta content="Kumo Desu Ga, Nani Ka ?" name="calibre:title_sort"/>
 		<opf:meta content="horizontal-lr" name="primary-writing-mode"/>
 		<opf:meta content='{"Baba Okina": ""}' name="calibre:author_link_map"/>
-	</metadata>
+	</opf:metadata>
 	<manifest>
 		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
 		<item href="style/cover.css" id="css_cover" media-type="text/css"/>
@@ -27,6 +27,17 @@
 		<item href="text/cover2.xhtml" id="cover-html-2" media-type="application/xhtml+xml"/>
 		<item href="text/cover3.xhtml" id="cover-html-3" media-type="application/xhtml+xml"/>
 		<item href="text/cover4.xhtml" id="cover-html-4" media-type="application/xhtml+xml"/>
+		<item href="text/part0001.html" id="page-1" media-type="application/xhtml+xml"/>
+		<item href="text/part0002.html" id="page-2" media-type="application/xhtml+xml"/>
+		<item href="text/part0003.html" id="page-3" media-type="application/xhtml+xml"/>
+		<item href="text/part0004.html" id="page-4" media-type="application/xhtml+xml"/>
+		<item href="text/part0005.html" id="page-5" media-type="application/xhtml+xml"/>
+		<item href="text/part0006.html" id="page-6" media-type="application/xhtml+xml"/>
+		<item href="text/part0007.html" id="page-7" media-type="application/xhtml+xml"/>
+		<item href="text/part0008.html" id="page-8" media-type="application/xhtml+xml"/>
+		<item href="text/part0009.html" id="page-9" media-type="application/xhtml+xml"/>
+		<item href="text/part0010.html" id="page-10" media-type="application/xhtml+xml"/>
+		<item href="text/part0010-1.html" id="page-10-1" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine toc="ncx">
 		<itemref idref="page-0"/>
@@ -34,6 +45,17 @@
 		<itemref idref="cover-html-2"/>
 		<itemref idref="cover-html-3"/>
 		<itemref idref="cover-html-4"/>
+		<itemref idref="page-1"/>
+		<itemref idref="page-2"/>
+		<itemref idref="page-3"/>
+		<itemref idref="page-4"/>
+		<itemref idref="page-5"/>
+		<itemref idref="page-6"/>
+		<itemref idref="page-7"/>
+		<itemref idref="page-8"/>
+		<itemref idref="page-9"/>
+		<itemref idref="page-10"/>
+		<itemref idref="page-10-1"/>
 	</spine>
 	<guide>
 		<reference href="text/part0000.html#body-0" title="Title Page" type="title-page"/>

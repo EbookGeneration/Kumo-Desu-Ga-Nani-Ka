@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+<?xml version="1.0" encoding="utf-8"?>
+<ncx version="2005-1" xml:lang="eng" xmlns="http://www.daisy.org/z3986/2005/ncx/">
 	<head>
 		<meta content="3195f6ef-a1bf-4869-a188-a94748d62861" name="dtb:uid"/>
 		<meta content="2" name="dtb:depth"/>
@@ -16,6 +16,72 @@
 				<text>Kumo Desu Ga, Nani Ka ?</text>
 			</navLabel>
 			<content src="text/part0000.html#body-0"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-1" playOrder="1">
+			<navLabel>
+				<text>001 - Prologue</text>
+			</navLabel>
+			<content src="text/part0001.html#body-1"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-2" playOrder="2">
+			<navLabel>
+				<text>002 - Looks like I'm a monster</text>
+			</navLabel>
+			<content src="text/part0002.html#body-2"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-3" playOrder="3">
+			<navLabel>
+				<text>003 - There was a time when I thought that "Appraisal" was a cheat skill.</text>
+			</navLabel>
+			<content src="text/part0003.html#body-3"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-4" playOrder="4">
+			<navLabel>
+				<text>004 - Exploring a dungeon for the first time</text>
+			</navLabel>
+			<content src="text/part0004.html#body-4"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-5" playOrder="5">
+			<navLabel>
+				<text>005 - Chapter of a new home</text>
+			</navLabel>
+			<content src="text/part0005.html#body-5"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-6" playOrder="6">
+			<navLabel>
+				<text>006 - I didn't regret after munching it</text>
+			</navLabel>
+			<content src="text/part0006.html#body-6"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-7" playOrder="7">
+			<navLabel>
+				<text>007 - 24 hours vacation throughout the year</text>
+			</navLabel>
+			<content src="text/part0007.html#body-7"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-8" playOrder="8">
+			<navLabel>
+				<text>008 - A spider without intelligence is just a normal spider</text>
+			</navLabel>
+			<content src="text/part0008.html#body-8"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-9" playOrder="9">
+			<navLabel>
+				<text>009 - Skill verification</text>
+			</navLabel>
+			<content src="text/part0009.html#body-9"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-10" playOrder="10">
+			<navLabel>
+				<text>010 - Level Up!</text>
+			</navLabel>
+			<content src="text/part0010.html#body-10"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-10-1" playOrder="10.1">
+			<navLabel>
+				<text>010.1 - S1 The day when the daily life ended</text>
+			</navLabel>
+			<content src="text/part0010-1.html#body-10-1"/>
 		</navPoint>
 	</navMap>
 </ncx>
