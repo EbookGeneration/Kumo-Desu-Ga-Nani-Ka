@@ -215,5 +215,77 @@
 			</navLabel>
 			<content src="text/part0030-1.html#body-30-1"/>
 		</navPoint>
+		<navPoint class="chapter" id="num-31" playOrder="31">
+			<navLabel>
+				<text>031 - I gained new skills</text>
+			</navLabel>
+			<content src="text/part0031.html#body-31"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-32" playOrder="32">
+			<navLabel>
+				<text>032 - Growth period?</text>
+			</navLabel>
+			<content src="text/part0032.html#body-32"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-33" playOrder="33">
+			<navLabel>
+				<text>033 - The seriousness of Appraisal-san</text>
+			</navLabel>
+			<content src="text/part0033.html#body-33"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-34" playOrder="34">
+			<navLabel>
+				<text>034 - Sequel・Growth period</text>
+			</navLabel>
+			<content src="text/part0034.html#body-34"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-35" playOrder="35">
+			<navLabel>
+				<text>035 - Therefore, don't get carried away that much(ry</text>
+			</navLabel>
+			<content src="text/part0035.html#body-35"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-35-1" playOrder="35.1">
+			<navLabel>
+				<text>035.1 - S4 Magic</text>
+			</navLabel>
+			<content src="text/part0035-1.html#body-35-1"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-36" playOrder="36">
+			<navLabel>
+				<text>036 - Desperate situation</text>
+			</navLabel>
+			<content src="text/part0036.html#body-36"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-37" playOrder="37">
+			<navLabel>
+				<text>037 - Struggles</text>
+			</navLabel>
+			<content src="text/part0037.html#body-37"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-38" playOrder="38">
+			<navLabel>
+				<text>038 - Spider VS Bee ①</text>
+			</navLabel>
+			<content src="text/part0038.html#body-38"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-39" playOrder="39">
+			<navLabel>
+				<text>039 - Spider vs Bee ②</text>
+			</navLabel>
+			<content src="text/part0039.html#body-39"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-40" playOrder="40">
+			<navLabel>
+				<text>040 - Spider vs Bee ③</text>
+			</navLabel>
+			<content src="text/part0040.html#body-40"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-40-1" playOrder="40.1">
+			<navLabel>
+				<text>040.1 - S5 Appraisal stone</text>
+			</navLabel>
+			<content src="text/part0040-1.html#body-40-1"/>
+		</navPoint>
 	</navMap>
 </ncx>

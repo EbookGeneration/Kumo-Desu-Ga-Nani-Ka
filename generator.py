@@ -45,6 +45,7 @@ def beautify_xml(content):
     xml = re.sub(r"(?<=>)\s+(?=[^<\s])", "", xml)
     xml = re.sub(r"(?<=[^>\s])\s+(?=<)", "", xml)
     xml = re_advenced_replace(r"^ +", xml, lambda match: "\t" * len(match.group(0)), re.IGNORECASE | re.MULTILINE)
+    xml = re.sub(r"&amp;(#[0-9]+);", "&\\1;", xml)
     return xml
     
 def format_chapter__status(match):
@@ -214,6 +215,8 @@ def format_chapter(body):
         body = re.sub(r"(?:<br />\s*){2}", "</p><p>", body)                     # Replace paragraph interval
         body = re.sub(r"<br />\s*", " ", body)                                  # Replace line break
     
+    body = re.sub(r"-{5,}", "</p><hr /><p>", body)                          # Replace separation lines
+    
     body = re.sub(r"<br_manual />", "<br />", body)                         # Replace manual line break
     body = re.sub(r"<p>\s*</p>", "", body)                                  # Replace empty paragraph
     
@@ -350,6 +353,10 @@ def parse_chapter(chapter_name, url):
         match = re.search(r"<b><span style=\"font-size: large;\">(?:[0-9]+(?:\.[0-9]+)?) (.+?)</span></b>", query.text, re.IGNORECASE)
         if match:
             title = re.sub(r"&nbsp;", "", match.group(1))
+        else:                
+            match = re.search(r"<span style=\"font-size: large;\"><b>(?:[0-9]+(?:\.[0-9]+)?) (.+?)</b></span>", query.text, re.IGNORECASE)
+            if match:
+                title = re.sub(r"&nbsp;", "", match.group(1))
     else:
         if chapter["name"] == "0":
             print("Missing chapter number")
@@ -367,6 +374,10 @@ def parse_chapter(chapter_name, url):
         match_title = re.search(r"<b><span style=\"font-size: large;\">(" + match.group(1) + " [^<]+)</span></b>", body, re.IGNORECASE)
         if match_title:
             title = cast_widthchar(match_title.group(1))
+        else:
+            match_title = re.search(r"<span style=\"font-size: large;\"><b>(" + match.group(1) + " [^<]+)</b></span>", body, re.IGNORECASE)
+            if match_title:
+                title = cast_widthchar(match_title.group(1))
 
     print("Chapter : {}".format(chapter["name"]))
     print("Title : {}".format(title))
