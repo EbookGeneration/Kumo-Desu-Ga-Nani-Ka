@@ -149,5 +149,71 @@
 			</navLabel>
 			<content src="text/part0020-1.html#body-20-1"/>
 		</navPoint>
+		<navPoint class="chapter" id="num-21" playOrder="21">
+			<navLabel>
+				<text>021 - HP MP SP</text>
+			</navLabel>
+			<content src="text/part0021.html#body-21"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-22" playOrder="22">
+			<navLabel>
+				<text>022 - Spider thread experiments</text>
+			</navLabel>
+			<content src="text/part0022.html#body-22"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-23" playOrder="23">
+			<navLabel>
+				<text>023 - I'm sorry that I got carried away. Please forgive me!</text>
+			</navLabel>
+			<content src="text/part0023.html#body-23"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-24" playOrder="24">
+			<navLabel>
+				<text>024 - Weak</text>
+			</navLabel>
+			<content src="text/part0024.html#body-24"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-25" playOrder="25">
+			<navLabel>
+				<text>025 - Delicious snake</text>
+			</navLabel>
+			<content src="text/part0025.html#body-25"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-26" playOrder="26">
+			<navLabel>
+				<text>026 - Chapter 26</text>
+			</navLabel>
+			<content src="text/part0026.html#body-26"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-27" playOrder="27">
+			<navLabel>
+				<text>027 - Chapter 27</text>
+			</navLabel>
+			<content src="text/part0027.html#body-27"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-28" playOrder="28">
+			<navLabel>
+				<text>028 - Eat eat eat</text>
+			</navLabel>
+			<content src="text/part0028.html#body-28"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-29" playOrder="29">
+			<navLabel>
+				<text>029 - The things that I need to do is still the same even if I evolve</text>
+			</navLabel>
+			<content src="text/part0029.html#body-29"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-30" playOrder="30">
+			<navLabel>
+				<text>030 - Let's acquire a new skill!</text>
+			</navLabel>
+			<content src="text/part0030.html#body-30"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-30-1" playOrder="30.1">
+			<navLabel>
+				<text>030.1 - S3 Fantasy</text>
+			</navLabel>
+			<content src="text/part0030-1.html#body-30-1"/>
+		</navPoint>
 	</navMap>
 </ncx>

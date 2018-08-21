@@ -49,6 +49,17 @@
 		<item href="text/part0019.html" id="page-19" media-type="application/xhtml+xml"/>
 		<item href="text/part0020.html" id="page-20" media-type="application/xhtml+xml"/>
 		<item href="text/part0020-1.html" id="page-20-1" media-type="application/xhtml+xml"/>
+		<item href="text/part0021.html" id="page-21" media-type="application/xhtml+xml"/>
+		<item href="text/part0022.html" id="page-22" media-type="application/xhtml+xml"/>
+		<item href="text/part0023.html" id="page-23" media-type="application/xhtml+xml"/>
+		<item href="text/part0024.html" id="page-24" media-type="application/xhtml+xml"/>
+		<item href="text/part0025.html" id="page-25" media-type="application/xhtml+xml"/>
+		<item href="text/part0026.html" id="page-26" media-type="application/xhtml+xml"/>
+		<item href="text/part0027.html" id="page-27" media-type="application/xhtml+xml"/>
+		<item href="text/part0028.html" id="page-28" media-type="application/xhtml+xml"/>
+		<item href="text/part0029.html" id="page-29" media-type="application/xhtml+xml"/>
+		<item href="text/part0030.html" id="page-30" media-type="application/xhtml+xml"/>
+		<item href="text/part0030-1.html" id="page-30-1" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine toc="ncx">
 		<itemref idref="page-0"/>
@@ -78,6 +89,17 @@
 		<itemref idref="page-19"/>
 		<itemref idref="page-20"/>
 		<itemref idref="page-20-1"/>
+		<itemref idref="page-21"/>
+		<itemref idref="page-22"/>
+		<itemref idref="page-23"/>
+		<itemref idref="page-24"/>
+		<itemref idref="page-25"/>
+		<itemref idref="page-26"/>
+		<itemref idref="page-27"/>
+		<itemref idref="page-28"/>
+		<itemref idref="page-29"/>
+		<itemref idref="page-30"/>
+		<itemref idref="page-30-1"/>
 	</spine>
 	<guide>
 		<reference href="text/part0000.html#body-0" title="Title Page" type="title-page"/>
