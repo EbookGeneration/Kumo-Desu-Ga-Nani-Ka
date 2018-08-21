@@ -326,7 +326,7 @@ def parse_chapter(chapter_name, url):
     # Get URL content
     query = requests.get(url)
     if query.status_code != requests.codes.ok:
-        print("Failed to get file : " + query.status_code)
+        print("Failed to get file : {}".format(query.status_code))
         return
         
     # Match for chapter title
