@@ -83,5 +83,71 @@
 			</navLabel>
 			<content src="text/part0010-1.html#body-10-1"/>
 		</navPoint>
+		<navPoint class="chapter" id="num-11" playOrder="11">
+			<navLabel>
+				<text>011 - I~to maki maki i~to maki maki♪</text>
+			</navLabel>
+			<content src="text/part0011.html#body-11"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-12" playOrder="12">
+			<navLabel>
+				<text>012 - A moving reunion(lol)</text>
+			</navLabel>
+			<content src="text/part0012.html#body-12"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-13" playOrder="13">
+			<navLabel>
+				<text>013 - I received a disgraceful title</text>
+			</navLabel>
+			<content src="text/part0013.html#body-13"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-14" playOrder="14">
+			<navLabel>
+				<text>014 - Chapter of reconstruction</text>
+			</navLabel>
+			<content src="text/part0014.html#body-14"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-15" playOrder="15">
+			<navLabel>
+				<text>015 - The time I lose my paradise</text>
+			</navLabel>
+			<content src="text/part0015.html#body-15"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-16" playOrder="16">
+			<navLabel>
+				<text>016 - Leaving the nest</text>
+			</navLabel>
+			<content src="text/part0016.html#body-16"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-17" playOrder="17">
+			<navLabel>
+				<text>017 - I use a dirty trick fair and square head-on</text>
+			</navLabel>
+			<content src="text/part0017.html#body-17"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-18" playOrder="18">
+			<navLabel>
+				<text>018 - Complete recovery after staying at the inn is only in game</text>
+			</navLabel>
+			<content src="text/part0018.html#body-18"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-19" playOrder="19">
+			<navLabel>
+				<text>019 - It's not a big deal if it does not hit!</text>
+			</navLabel>
+			<content src="text/part0019.html#body-19"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-20" playOrder="20">
+			<navLabel>
+				<text>020 - I am a spider, currently behind you</text>
+			</navLabel>
+			<content src="text/part0020.html#body-20"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-20-1" playOrder="20.1">
+			<navLabel>
+				<text>020.1 - S2 The fourth prince</text>
+			</navLabel>
+			<content src="text/part0020-1.html#body-20-1"/>
+		</navPoint>
 	</navMap>
 </ncx>
