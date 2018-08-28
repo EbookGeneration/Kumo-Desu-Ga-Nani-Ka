@@ -219,6 +219,7 @@ def format_chapter(body):
     
     body = re.sub(r"<br_manual />", "<br />", body)                         # Replace manual line break
     body = re.sub(r"<p>\s*</p>", "", body)                                  # Replace empty paragraph
+    body = re.sub(r"(?<=})\s*(?={)", "<br />", body)                        # Manual line return between two system voice
     
     body = re.sub(r"</?(?:a|b|span|div)(?: .+?)?>", "", body)               # Delete unused tags
     body = re.sub(r"&nbsp;", " ", body)                                     # Delete unbreakable spaces
