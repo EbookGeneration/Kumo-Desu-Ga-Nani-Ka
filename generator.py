@@ -334,7 +334,7 @@ def parse_chapter(chapter_name, url):
         return
         
     # Match for chapter title
-    match = re.search(r"<h3 class='post-title entry-title' itemprop='name'>\s*Kumo Desu [gk]a, Nani [kg]a\? (.+?)\s*</h3>", query.text, re.IGNORECASE | re.DOTALL)
+    match = re.search(r"<h3 class='post-title entry-title' itemprop='name'>\s*Kumo Desu [gk]a,? Nani [kg]a\? (.+?)\s*</h3>", query.text, re.IGNORECASE | re.DOTALL)
     if not match:
         print("Failed to extract title")
         return

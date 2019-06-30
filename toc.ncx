@@ -359,5 +359,377 @@
 			</navLabel>
 			<content src="text/part0050-1.html#body-50-1"/>
 		</navPoint>
+		<navPoint class="chapter" id="num-50-2" playOrder="50.2">
+			<navLabel>
+				<text>050.2 - Extra Bestiary①</text>
+			</navLabel>
+			<content src="text/part0050-2.html#body-50-2"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-51" playOrder="51">
+			<navLabel>
+				<text>051 - Isn't it great to know the enemy's strength?</text>
+			</navLabel>
+			<content src="text/part0051.html#body-51"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-52" playOrder="52">
+			<navLabel>
+				<text>052 - Threadness and sadness and heartening and</text>
+			</navLabel>
+			<content src="text/part0052.html#body-52"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-53" playOrder="53">
+			<navLabel>
+				<text>053 - I have become stronger even if it's a little</text>
+			</navLabel>
+			<content src="text/part0053.html#body-53"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-54" playOrder="54">
+			<navLabel>
+				<text>054 - Quiet sleep great strategy!</text>
+			</navLabel>
+			<content src="text/part0054.html#body-54"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-55" playOrder="55">
+			<navLabel>
+				<text>055 - The defensive battle of 100 meters above ground ①</text>
+			</navLabel>
+			<content src="text/part0055.html#body-55"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-55-1" playOrder="55.1">
+			<navLabel>
+				<text>055.1 - S8 Skill encyclopedia</text>
+			</navLabel>
+			<content src="text/part0055-1.html#body-55-1"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-56" playOrder="56">
+			<navLabel>
+				<text>056 - The defensive battle of 100 meters above ground ②</text>
+			</navLabel>
+			<content src="text/part0056.html#body-56"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-57" playOrder="57">
+			<navLabel>
+				<text>057 - The defensive battle of 100 meters above ground ③</text>
+			</navLabel>
+			<content src="text/part0057.html#body-57"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-58" playOrder="58">
+			<navLabel>
+				<text>058 - The defensive battle of 100 meters above ground ④</text>
+			</navLabel>
+			<content src="text/part0058.html#body-58"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-59" playOrder="59">
+			<navLabel>
+				<text>059 - The defensive battle of 100 meters above ground ⑤</text>
+			</navLabel>
+			<content src="text/part0059.html#body-59"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-60" playOrder="60">
+			<navLabel>
+				<text>060 - The defensive battle of 100 meters above ground End</text>
+			</navLabel>
+			<content src="text/part0060.html#body-60"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-60-1" playOrder="60.1">
+			<navLabel>
+				<text>060.1 - S9 Skill point</text>
+			</navLabel>
+			<content src="text/part0060-1.html#body-60-1"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-61" playOrder="61">
+			<navLabel>
+				<text>061 - I'm going to evolve! Part 2</text>
+			</navLabel>
+			<content src="text/part0061.html#body-61"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-62" playOrder="62">
+			<navLabel>
+				<text>062 - Poison spider</text>
+			</navLabel>
+			<content src="text/part0062.html#body-62"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-63" playOrder="63">
+			<navLabel>
+				<text>063 - Appraisal-san, no, Appraisal-sama!</text>
+			</navLabel>
+			<content src="text/part0063.html#body-63"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-64" playOrder="64">
+			<navLabel>
+				<text>064 - Appraisal-sama is really an intelligent person</text>
+			</navLabel>
+			<content src="text/part0064.html#body-64"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-65" playOrder="65">
+			<navLabel>
+				<text>065 - Pride</text>
+			</navLabel>
+			<content src="text/part0065.html#body-65"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-65-1" playOrder="65.1">
+			<navLabel>
+				<text>065.1 - S10 The second prince</text>
+			</navLabel>
+			<content src="text/part0065-1.html#body-65-1"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-66" playOrder="66">
+			<navLabel>
+				<text>066 - Skill rush</text>
+			</navLabel>
+			<content src="text/part0066.html#body-66"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-67" playOrder="67">
+			<navLabel>
+				<text>067 - A formidable enemy appears! The name is Detection!</text>
+			</navLabel>
+			<content src="text/part0067.html#body-67"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-68" playOrder="68">
+			<navLabel>
+				<text>068 - The end of the lower layer</text>
+			</navLabel>
+			<content src="text/part0068.html#body-68"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-69" playOrder="69">
+			<navLabel>
+				<text>069 - Elro Great Labyrinth Middle Layer</text>
+			</navLabel>
+			<content src="text/part0069.html#body-69"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-70" playOrder="70">
+			<navLabel>
+				<text>070 - Training part</text>
+			</navLabel>
+			<content src="text/part0070.html#body-70"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-70-1" playOrder="70.1">
+			<navLabel>
+				<text>070.1 - Y1 Hero and the king</text>
+			</navLabel>
+			<content src="text/part0070-1.html#body-70-1"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-71" playOrder="71">
+			<navLabel>
+				<text>071 - Leveling</text>
+			</navLabel>
+			<content src="text/part0071.html#body-71"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-72" playOrder="72">
+			<navLabel>
+				<text>072 - Leveling result</text>
+			</navLabel>
+			<content src="text/part0072.html#body-72"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-73" playOrder="73">
+			<navLabel>
+				<text>073 - Death flag suddenly</text>
+			</navLabel>
+			<content src="text/part0073.html#body-73"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-74" playOrder="74">
+			<navLabel>
+				<text>074 - Middle layer capture starts</text>
+			</navLabel>
+			<content src="text/part0074.html#body-74"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-75" playOrder="75">
+			<navLabel>
+				<text>075 - It's good to do my part by myself, but there are times you feel frustrated when it's done by someone else, right?</text>
+			</navLabel>
+			<content src="text/part0075.html#body-75"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-75-1" playOrder="75.1">
+			<navLabel>
+				<text>075.1 - S11 Elf girl</text>
+			</navLabel>
+			<content src="text/part0075-1.html#body-75-1"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-76" playOrder="76">
+			<navLabel>
+				<text>076 - Let's become even hotter!</text>
+			</navLabel>
+			<content src="text/part0076.html#body-76"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-77" playOrder="77">
+			<navLabel>
+				<text>077 - Unlucky 7</text>
+			</navLabel>
+			<content src="text/part0077.html#body-77"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-78" playOrder="78">
+			<navLabel>
+				<text>078 - ... It's an amazing skill.</text>
+			</navLabel>
+			<content src="text/part0078.html#body-78"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-79" playOrder="79">
+			<navLabel>
+				<text>079 - How's a spider who's full of dangerous titles?</text>
+			</navLabel>
+			<content src="text/part0079.html#body-79"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-80" playOrder="80">
+			<navLabel>
+				<text>080 - Spider vs Fire Drake ①</text>
+			</navLabel>
+			<content src="text/part0080.html#body-80"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-80-1" playOrder="80.1">
+			<navLabel>
+				<text>080.1 - S12 Academy</text>
+			</navLabel>
+			<content src="text/part0080-1.html#body-80-1"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-81" playOrder="81">
+			<navLabel>
+				<text>081 - Spider vs Fire Drake ②</text>
+			</navLabel>
+			<content src="text/part0081.html#body-81"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-82" playOrder="82">
+			<navLabel>
+				<text>082 - Spider vs Fire Drake ③</text>
+			</navLabel>
+			<content src="text/part0082.html#body-82"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-83" playOrder="83">
+			<navLabel>
+				<text>083 - Spider vs Fire Drake ④</text>
+			</navLabel>
+			<content src="text/part0083.html#body-83"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-84" playOrder="84">
+			<navLabel>
+				<text>084 - Spider vs Fire Drake ⑤</text>
+			</navLabel>
+			<content src="text/part0084.html#body-84"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-85" playOrder="85">
+			<navLabel>
+				<text>085 - Spider vs Fire Drake End</text>
+			</navLabel>
+			<content src="text/part0085.html#body-85"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-86" playOrder="86">
+			<navLabel>
+				<text>086 - Dance of victory</text>
+			</navLabel>
+			<content src="text/part0086.html#body-86"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-85-1" playOrder="85.1">
+			<navLabel>
+				<text>085.1 - Extra Bestiary ②</text>
+			</navLabel>
+			<content src="text/part0085-1.html#body-85-1"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-85-2" playOrder="85.2">
+			<navLabel>
+				<text>085.2 - S13 Saint and Sword Empreror</text>
+			</navLabel>
+			<content src="text/part0085-2.html#body-85-2"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-87" playOrder="87">
+			<navLabel>
+				<text>087 - I'm going to evolve! Part 3</text>
+			</navLabel>
+			<content src="text/part0087.html#body-87"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-88" playOrder="88">
+			<navLabel>
+				<text>088 - Zoa Ere</text>
+			</navLabel>
+			<content src="text/part0088.html#body-88"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-89" playOrder="89">
+			<navLabel>
+				<text>089 - Changes due to evolution</text>
+			</navLabel>
+			<content src="text/part0089.html#body-89"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-90" playOrder="90">
+			<navLabel>
+				<text>090 - Patience</text>
+			</navLabel>
+			<content src="text/part0090.html#body-90"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-90-1" playOrder="90.1">
+			<navLabel>
+				<text>090.1 - K1 Pessimistic Duke's daughter</text>
+			</navLabel>
+			<content src="text/part0090-1.html#body-90-1"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-91" playOrder="91">
+			<navLabel>
+				<text>091 - Detection-san, you were a formidable enemy</text>
+			</navLabel>
+			<content src="text/part0091.html#body-91"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-92" playOrder="92">
+			<navLabel>
+				<text>092 - Chapter 92</text>
+			</navLabel>
+			<content src="text/part0092.html#body-92"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-93" playOrder="93">
+			<navLabel>
+				<text>093 - Chapter 93</text>
+			</navLabel>
+			<content src="text/part0093.html#body-93"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-94" playOrder="94">
+			<navLabel>
+				<text>094 - The top needs the top, so let's aim at more top</text>
+			</navLabel>
+			<content src="text/part0094.html#body-94"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-95" playOrder="95">
+			<navLabel>
+				<text>095 - Higher rank species</text>
+			</navLabel>
+			<content src="text/part0095.html#body-95"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-95-1" playOrder="95.1">
+			<navLabel>
+				<text>095.1 - S14 Academy life</text>
+			</navLabel>
+			<content src="text/part0095-1.html#body-95-1"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-96" playOrder="96">
+			<navLabel>
+				<text>096 - I think, therefore I am. I move, therefore I am. I am me and me, therefore it is me.</text>
+			</navLabel>
+			<content src="text/part0096.html#body-96"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-97" playOrder="97">
+			<navLabel>
+				<text>097 - The eight passes</text>
+			</navLabel>
+			<content src="text/part0097.html#body-97"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-98" playOrder="98">
+			<navLabel>
+				<text>098 - Look at my eyes!</text>
+			</navLabel>
+			<content src="text/part0098.html#body-98"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-99" playOrder="99">
+			<navLabel>
+				<text>099 - Because that guy is an idiot, I must get a grip on myself</text>
+			</navLabel>
+			<content src="text/part0099.html#body-99"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-100" playOrder="100">
+			<navLabel>
+				<text>100 - Oh? Appraisal-sama's state....?</text>
+			</navLabel>
+			<content src="text/part0100.html#body-100"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-100-1" playOrder="100.1">
+			<navLabel>
+				<text>100.1 - S15 Ruler class</text>
+			</navLabel>
+			<content src="text/part0100-1.html#body-100-1"/>
+		</navPoint>
 	</navMap>
 </ncx>
