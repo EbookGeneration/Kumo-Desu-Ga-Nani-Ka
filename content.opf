@@ -72,6 +72,18 @@
 		<item href="text/part0039.html" id="page-39" media-type="application/xhtml+xml"/>
 		<item href="text/part0040.html" id="page-40" media-type="application/xhtml+xml"/>
 		<item href="text/part0040-1.html" id="page-40-1" media-type="application/xhtml+xml"/>
+		<item href="text/part0041.html" id="page-41" media-type="application/xhtml+xml"/>
+		<item href="text/part0042.html" id="page-42" media-type="application/xhtml+xml"/>
+		<item href="text/part0043.html" id="page-43" media-type="application/xhtml+xml"/>
+		<item href="text/part0044.html" id="page-44" media-type="application/xhtml+xml"/>
+		<item href="text/part0045.html" id="page-45" media-type="application/xhtml+xml"/>
+		<item href="text/part0045-1.html" id="page-45-1" media-type="application/xhtml+xml"/>
+		<item href="text/part0046.html" id="page-46" media-type="application/xhtml+xml"/>
+		<item href="text/part0047.html" id="page-47" media-type="application/xhtml+xml"/>
+		<item href="text/part0048.html" id="page-48" media-type="application/xhtml+xml"/>
+		<item href="text/part0049.html" id="page-49" media-type="application/xhtml+xml"/>
+		<item href="text/part0050.html" id="page-50" media-type="application/xhtml+xml"/>
+		<item href="text/part0050-1.html" id="page-50-1" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine toc="ncx">
 		<itemref idref="page-0"/>
@@ -124,6 +136,18 @@
 		<itemref idref="page-39"/>
 		<itemref idref="page-40"/>
 		<itemref idref="page-40-1"/>
+		<itemref idref="page-41"/>
+		<itemref idref="page-42"/>
+		<itemref idref="page-43"/>
+		<itemref idref="page-44"/>
+		<itemref idref="page-45"/>
+		<itemref idref="page-45-1"/>
+		<itemref idref="page-46"/>
+		<itemref idref="page-47"/>
+		<itemref idref="page-48"/>
+		<itemref idref="page-49"/>
+		<itemref idref="page-50"/>
+		<itemref idref="page-50-1"/>
 	</spine>
 	<guide>
 		<reference href="text/part0000.html#body-0" title="Title Page" type="title-page"/>

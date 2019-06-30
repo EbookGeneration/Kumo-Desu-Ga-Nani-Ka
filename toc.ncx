@@ -287,5 +287,77 @@
 			</navLabel>
 			<content src="text/part0040-1.html#body-40-1"/>
 		</navPoint>
+		<navPoint class="chapter" id="num-41" playOrder="41">
+			<navLabel>
+				<text>041 - I achieved the desired level up!</text>
+			</navLabel>
+			<content src="text/part0041.html#body-41"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-42" playOrder="42">
+			<navLabel>
+				<text>042 - Spider vs Bee ④</text>
+			</navLabel>
+			<content src="text/part0042.html#body-42"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-43" playOrder="43">
+			<navLabel>
+				<text>043 - Spider vs Earth Dragon.........Eh?</text>
+			</navLabel>
+			<content src="text/part0043.html#body-43"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-44" playOrder="44">
+			<navLabel>
+				<text>044 - Escape from despair</text>
+			</navLabel>
+			<content src="text/part0044.html#body-44"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-45" playOrder="45">
+			<navLabel>
+				<text>045 - Elro Great Labyrinth Lower Layer</text>
+			</navLabel>
+			<content src="text/part0045.html#body-45"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-45-1" playOrder="45.1">
+			<navLabel>
+				<text>045.1 - S6 Status</text>
+			</navLabel>
+			<content src="text/part0045-1.html#body-45-1"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-46" playOrder="46">
+			<navLabel>
+				<text>046 - Survival of the fittest, or so I thought, but....</text>
+			</navLabel>
+			<content src="text/part0046.html#body-46"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-47" playOrder="47">
+			<navLabel>
+				<text>047 - Poison poison</text>
+			</navLabel>
+			<content src="text/part0047.html#body-47"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-48" playOrder="48">
+			<navLabel>
+				<text>048 - Forked, road?</text>
+			</navLabel>
+			<content src="text/part0048.html#body-48"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-49" playOrder="49">
+			<navLabel>
+				<text>049 - Appraisal-san, you were a cheat after all</text>
+			</navLabel>
+			<content src="text/part0049.html#body-49"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-50" playOrder="50">
+			<navLabel>
+				<text>050 - Mahou Shoujo Magical Kumoko☆</text>
+			</navLabel>
+			<content src="text/part0050.html#body-50"/>
+		</navPoint>
+		<navPoint class="chapter" id="num-50-1" playOrder="50.1">
+			<navLabel>
+				<text>050.1 - S7 Duke's daughter</text>
+			</navLabel>
+			<content src="text/part0050-1.html#body-50-1"/>
+		</navPoint>
 	</navMap>
 </ncx>
