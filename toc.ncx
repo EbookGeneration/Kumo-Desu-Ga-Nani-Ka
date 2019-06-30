@@ -181,13 +181,13 @@
 		</navPoint>
 		<navPoint class="chapter" id="num-26" playOrder="26">
 			<navLabel>
-				<text>026 - Chapter 26</text>
+				<text>026 - De-hikki plan</text>
 			</navLabel>
 			<content src="text/part0026.html#body-26"/>
 		</navPoint>
 		<navPoint class="chapter" id="num-27" playOrder="27">
 			<navLabel>
-				<text>027 - Chapter 27</text>
+				<text>027 - I'm going to evolve!</text>
 			</navLabel>
 			<content src="text/part0027.html#body-27"/>
 		</navPoint>
