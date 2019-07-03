@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<package unique-identifier="uSG9pXKYYUUNCS47EJwtMh3" version="2.0" xmlns="http://www.idpf.org/2007/opf">
-	<opf:metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-		<dc:title>Kumo Desu Ga, Nani Ka ?</dc:title>
-		<dc:creator opf:file-as="Okina, Baba" opf:role="aut">Baba Okina</dc:creator>
-		<dc:date>0101-01-01T00:00:00+00:00</dc:date>
-		<dc:contributor opf:role="bkp">calibre (3.27.1) [https://calibre-ebook.com]</dc:contributor>
-		<dc:identifier id="uSG9pXKYYUUNCS47EJwtMh3" opf:scheme="uuid">uSG9pXKYYUUNCS47EJwtMh3</dc:identifier>
-		<dc:language>en</dc:language>
-		<opf:meta content="2018-07-06T16:52:38.790000+00:00" name="calibre:timestamp"/>
-		<opf:meta content="cover" name="cover"/>
-		<opf:meta content="Kumo Desu Ga, Nani Ka ?" name="calibre:title_sort"/>
-		<opf:meta content="horizontal-lr" name="primary-writing-mode"/>
-		<opf:meta content='{"Baba Okina": ""}' name="calibre:author_link_map"/>
-	</opf:metadata>
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uSG9pXKYYUUNCS47EJwtMh3" version="2.0">
+	<metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <meta name="cover" content="cover"/>
+    <meta content="2018-07-06T16:52:38.790000+00:00" name="calibre:timestamp"/>
+    <meta content="Kumo Desu Ga, Nani Ka ?" name="calibre:title_sort"/>
+    <meta content="horizontal-lr" name="primary-writing-mode"/>
+    <meta content="{&quot;Baba Okina&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:title>Kumo Desu Ga, Nani Ka ?</dc:title>
+    <dc:creator opf:file-as="Okina, Baba" opf:role="aut">Baba Okina</dc:creator>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.27.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uSG9pXKYYUUNCS47EJwtMh3" opf:scheme="uuid">uSG9pXKYYUUNCS47EJwtMh3</dc:identifier>
+    <dc:language>en</dc:language>
+  </metadata>
 	<manifest>
 		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
 		<item href="style/cover.css" id="css_cover" media-type="text/css"/>
