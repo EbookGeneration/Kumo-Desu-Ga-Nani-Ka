@@ -7,7 +7,7 @@
 Web novel by *Baba Okina* : http://ncode.syosetu.com/n7975cr/
 
 Translation from Japaneese by *Turb0* (chapters _start_ to _Oni vs Oni 2_) : https://turb0translation.blogspot.com/p/blog-page.html  
-Translation from Japaneese by *Raising the Dead* (chapters _Oni vs Oni 3_ to _end_) : http://raisingthedead.ninja/2015/11/09/regarding-kumo-desu-ga-nani-ka/
+Translation from Japaneese by *Raising the Dead* (chapters _Oni vs Oni 3_ to _end_) : https://rtd.moe/novels/kumo-desu-ga-nani-ka/
 
 All the works belongs to their original author(s).
 
