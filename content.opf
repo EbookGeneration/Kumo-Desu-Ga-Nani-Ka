@@ -1,283 +1,283 @@
-<?xml version='1.0' encoding='utf-8'?>
-<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uSG9pXKYYUUNCS47EJwtMh3" version="2.0">
-	<metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <meta name="cover" content="cover"/>
-    <meta content="2018-07-06T16:52:38.790000+00:00" name="calibre:timestamp"/>
-    <meta content="Kumo Desu Ga, Nani Ka ?" name="calibre:title_sort"/>
-    <meta content="horizontal-lr" name="primary-writing-mode"/>
-    <meta content="{&quot;Baba Okina&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-    <dc:title>Kumo Desu Ga, Nani Ka ?</dc:title>
-    <dc:creator opf:file-as="Okina, Baba" opf:role="aut">Baba Okina</dc:creator>
-    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-    <dc:contributor opf:role="bkp">calibre (3.27.1) [https://calibre-ebook.com]</dc:contributor>
-    <dc:identifier id="uSG9pXKYYUUNCS47EJwtMh3" opf:scheme="uuid">uSG9pXKYYUUNCS47EJwtMh3</dc:identifier>
-    <dc:language>en</dc:language>
-  </metadata>
-	<manifest>
-		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
-		<item href="style/cover.css" id="css_cover" media-type="text/css"/>
-		<item href="style/text.css" id="css_text" media-type="text/css"/>
-		<item href="images/cover_1.jpg" id="cover-1" media-type="image/jpeg"/>
-		<item href="images/cover_2.jpg" id="cover-2" media-type="image/jpeg"/>
-		<item href="images/cover_3.jpg" id="cover-3" media-type="image/jpeg"/>
-		<item href="images/cover_4.jpg" id="cover-4" media-type="image/jpeg"/>
-		<item href="images/cover.jpg" id="cover" media-type="image/jpeg"/>
-		<item href="text/part0000.html" id="page-0" media-type="application/xhtml+xml"/>
-		<item href="text/cover1.xhtml" id="cover-html-1" media-type="application/xhtml+xml"/>
-		<item href="text/cover2.xhtml" id="cover-html-2" media-type="application/xhtml+xml"/>
-		<item href="text/cover3.xhtml" id="cover-html-3" media-type="application/xhtml+xml"/>
-		<item href="text/cover4.xhtml" id="cover-html-4" media-type="application/xhtml+xml"/>
-		<item href="text/part0001.html" id="page-1" media-type="application/xhtml+xml"/>
-		<item href="text/part0002.html" id="page-2" media-type="application/xhtml+xml"/>
-		<item href="text/part0003.html" id="page-3" media-type="application/xhtml+xml"/>
-		<item href="text/part0004.html" id="page-4" media-type="application/xhtml+xml"/>
-		<item href="text/part0005.html" id="page-5" media-type="application/xhtml+xml"/>
-		<item href="text/part0006.html" id="page-6" media-type="application/xhtml+xml"/>
-		<item href="text/part0007.html" id="page-7" media-type="application/xhtml+xml"/>
-		<item href="text/part0008.html" id="page-8" media-type="application/xhtml+xml"/>
-		<item href="text/part0009.html" id="page-9" media-type="application/xhtml+xml"/>
-		<item href="text/part0010.html" id="page-10" media-type="application/xhtml+xml"/>
-		<item href="text/part0010-1.html" id="page-10-1" media-type="application/xhtml+xml"/>
-		<item href="text/part0011.html" id="page-11" media-type="application/xhtml+xml"/>
-		<item href="text/part0012.html" id="page-12" media-type="application/xhtml+xml"/>
-		<item href="text/part0013.html" id="page-13" media-type="application/xhtml+xml"/>
-		<item href="text/part0014.html" id="page-14" media-type="application/xhtml+xml"/>
-		<item href="text/part0015.html" id="page-15" media-type="application/xhtml+xml"/>
-		<item href="text/part0016.html" id="page-16" media-type="application/xhtml+xml"/>
-		<item href="text/part0017.html" id="page-17" media-type="application/xhtml+xml"/>
-		<item href="text/part0018.html" id="page-18" media-type="application/xhtml+xml"/>
-		<item href="text/part0019.html" id="page-19" media-type="application/xhtml+xml"/>
-		<item href="text/part0020.html" id="page-20" media-type="application/xhtml+xml"/>
-		<item href="text/part0020-1.html" id="page-20-1" media-type="application/xhtml+xml"/>
-		<item href="text/part0021.html" id="page-21" media-type="application/xhtml+xml"/>
-		<item href="text/part0022.html" id="page-22" media-type="application/xhtml+xml"/>
-		<item href="text/part0023.html" id="page-23" media-type="application/xhtml+xml"/>
-		<item href="text/part0024.html" id="page-24" media-type="application/xhtml+xml"/>
-		<item href="text/part0025.html" id="page-25" media-type="application/xhtml+xml"/>
-		<item href="text/part0026.html" id="page-26" media-type="application/xhtml+xml"/>
-		<item href="text/part0027.html" id="page-27" media-type="application/xhtml+xml"/>
-		<item href="text/part0028.html" id="page-28" media-type="application/xhtml+xml"/>
-		<item href="text/part0029.html" id="page-29" media-type="application/xhtml+xml"/>
-		<item href="text/part0030.html" id="page-30" media-type="application/xhtml+xml"/>
-		<item href="text/part0030-1.html" id="page-30-1" media-type="application/xhtml+xml"/>
-		<item href="text/part0031.html" id="page-31" media-type="application/xhtml+xml"/>
-		<item href="text/part0032.html" id="page-32" media-type="application/xhtml+xml"/>
-		<item href="text/part0033.html" id="page-33" media-type="application/xhtml+xml"/>
-		<item href="text/part0034.html" id="page-34" media-type="application/xhtml+xml"/>
-		<item href="text/part0035.html" id="page-35" media-type="application/xhtml+xml"/>
-		<item href="text/part0035-1.html" id="page-35-1" media-type="application/xhtml+xml"/>
-		<item href="text/part0036.html" id="page-36" media-type="application/xhtml+xml"/>
-		<item href="text/part0037.html" id="page-37" media-type="application/xhtml+xml"/>
-		<item href="text/part0038.html" id="page-38" media-type="application/xhtml+xml"/>
-		<item href="text/part0039.html" id="page-39" media-type="application/xhtml+xml"/>
-		<item href="text/part0040.html" id="page-40" media-type="application/xhtml+xml"/>
-		<item href="text/part0040-1.html" id="page-40-1" media-type="application/xhtml+xml"/>
-		<item href="text/part0041.html" id="page-41" media-type="application/xhtml+xml"/>
-		<item href="text/part0042.html" id="page-42" media-type="application/xhtml+xml"/>
-		<item href="text/part0043.html" id="page-43" media-type="application/xhtml+xml"/>
-		<item href="text/part0044.html" id="page-44" media-type="application/xhtml+xml"/>
-		<item href="text/part0045.html" id="page-45" media-type="application/xhtml+xml"/>
-		<item href="text/part0045-1.html" id="page-45-1" media-type="application/xhtml+xml"/>
-		<item href="text/part0046.html" id="page-46" media-type="application/xhtml+xml"/>
-		<item href="text/part0047.html" id="page-47" media-type="application/xhtml+xml"/>
-		<item href="text/part0048.html" id="page-48" media-type="application/xhtml+xml"/>
-		<item href="text/part0049.html" id="page-49" media-type="application/xhtml+xml"/>
-		<item href="text/part0050.html" id="page-50" media-type="application/xhtml+xml"/>
-		<item href="text/part0050-1.html" id="page-50-1" media-type="application/xhtml+xml"/>
-		<item href="text/part0050-2.html" id="page-50-2" media-type="application/xhtml+xml"/>
-		<item href="text/part0051.html" id="page-51" media-type="application/xhtml+xml"/>
-		<item href="text/part0052.html" id="page-52" media-type="application/xhtml+xml"/>
-		<item href="text/part0053.html" id="page-53" media-type="application/xhtml+xml"/>
-		<item href="text/part0054.html" id="page-54" media-type="application/xhtml+xml"/>
-		<item href="text/part0055.html" id="page-55" media-type="application/xhtml+xml"/>
-		<item href="text/part0055-1.html" id="page-55-1" media-type="application/xhtml+xml"/>
-		<item href="text/part0056.html" id="page-56" media-type="application/xhtml+xml"/>
-		<item href="text/part0057.html" id="page-57" media-type="application/xhtml+xml"/>
-		<item href="text/part0058.html" id="page-58" media-type="application/xhtml+xml"/>
-		<item href="text/part0059.html" id="page-59" media-type="application/xhtml+xml"/>
-		<item href="text/part0060.html" id="page-60" media-type="application/xhtml+xml"/>
-		<item href="text/part0060-1.html" id="page-60-1" media-type="application/xhtml+xml"/>
-		<item href="text/part0061.html" id="page-61" media-type="application/xhtml+xml"/>
-		<item href="text/part0062.html" id="page-62" media-type="application/xhtml+xml"/>
-		<item href="text/part0063.html" id="page-63" media-type="application/xhtml+xml"/>
-		<item href="text/part0064.html" id="page-64" media-type="application/xhtml+xml"/>
-		<item href="text/part0065.html" id="page-65" media-type="application/xhtml+xml"/>
-		<item href="text/part0065-1.html" id="page-65-1" media-type="application/xhtml+xml"/>
-		<item href="text/part0066.html" id="page-66" media-type="application/xhtml+xml"/>
-		<item href="text/part0067.html" id="page-67" media-type="application/xhtml+xml"/>
-		<item href="text/part0068.html" id="page-68" media-type="application/xhtml+xml"/>
-		<item href="text/part0069.html" id="page-69" media-type="application/xhtml+xml"/>
-		<item href="text/part0070.html" id="page-70" media-type="application/xhtml+xml"/>
-		<item href="text/part0070-1.html" id="page-70-1" media-type="application/xhtml+xml"/>
-		<item href="text/part0071.html" id="page-71" media-type="application/xhtml+xml"/>
-		<item href="text/part0072.html" id="page-72" media-type="application/xhtml+xml"/>
-		<item href="text/part0073.html" id="page-73" media-type="application/xhtml+xml"/>
-		<item href="text/part0074.html" id="page-74" media-type="application/xhtml+xml"/>
-		<item href="text/part0075.html" id="page-75" media-type="application/xhtml+xml"/>
-		<item href="text/part0075-1.html" id="page-75-1" media-type="application/xhtml+xml"/>
-		<item href="text/part0076.html" id="page-76" media-type="application/xhtml+xml"/>
-		<item href="text/part0077.html" id="page-77" media-type="application/xhtml+xml"/>
-		<item href="text/part0078.html" id="page-78" media-type="application/xhtml+xml"/>
-		<item href="text/part0079.html" id="page-79" media-type="application/xhtml+xml"/>
-		<item href="text/part0080.html" id="page-80" media-type="application/xhtml+xml"/>
-		<item href="text/part0080-1.html" id="page-80-1" media-type="application/xhtml+xml"/>
-		<item href="text/part0081.html" id="page-81" media-type="application/xhtml+xml"/>
-		<item href="text/part0082.html" id="page-82" media-type="application/xhtml+xml"/>
-		<item href="text/part0083.html" id="page-83" media-type="application/xhtml+xml"/>
-		<item href="text/part0084.html" id="page-84" media-type="application/xhtml+xml"/>
-		<item href="text/part0085.html" id="page-85" media-type="application/xhtml+xml"/>
-		<item href="text/part0086.html" id="page-86" media-type="application/xhtml+xml"/>
-		<item href="text/part0085-1.html" id="page-85-1" media-type="application/xhtml+xml"/>
-		<item href="text/part0085-2.html" id="page-85-2" media-type="application/xhtml+xml"/>
-		<item href="text/part0087.html" id="page-87" media-type="application/xhtml+xml"/>
-		<item href="text/part0088.html" id="page-88" media-type="application/xhtml+xml"/>
-		<item href="text/part0089.html" id="page-89" media-type="application/xhtml+xml"/>
-		<item href="text/part0090.html" id="page-90" media-type="application/xhtml+xml"/>
-		<item href="text/part0090-1.html" id="page-90-1" media-type="application/xhtml+xml"/>
-		<item href="text/part0091.html" id="page-91" media-type="application/xhtml+xml"/>
-		<item href="text/part0092.html" id="page-92" media-type="application/xhtml+xml"/>
-		<item href="text/part0093.html" id="page-93" media-type="application/xhtml+xml"/>
-		<item href="text/part0094.html" id="page-94" media-type="application/xhtml+xml"/>
-		<item href="text/part0095.html" id="page-95" media-type="application/xhtml+xml"/>
-		<item href="text/part0095-1.html" id="page-95-1" media-type="application/xhtml+xml"/>
-		<item href="text/part0096.html" id="page-96" media-type="application/xhtml+xml"/>
-		<item href="text/part0097.html" id="page-97" media-type="application/xhtml+xml"/>
-		<item href="text/part0098.html" id="page-98" media-type="application/xhtml+xml"/>
-		<item href="text/part0099.html" id="page-99" media-type="application/xhtml+xml"/>
-		<item href="text/part0100.html" id="page-100" media-type="application/xhtml+xml"/>
-		<item href="text/part0100-1.html" id="page-100-1" media-type="application/xhtml+xml"/>
-	</manifest>
-	<spine toc="ncx">
-		<itemref idref="page-0"/>
-		<itemref idref="cover-html-1"/>
-		<itemref idref="cover-html-2"/>
-		<itemref idref="cover-html-3"/>
-		<itemref idref="cover-html-4"/>
-		<itemref idref="page-1"/>
-		<itemref idref="page-2"/>
-		<itemref idref="page-3"/>
-		<itemref idref="page-4"/>
-		<itemref idref="page-5"/>
-		<itemref idref="page-6"/>
-		<itemref idref="page-7"/>
-		<itemref idref="page-8"/>
-		<itemref idref="page-9"/>
-		<itemref idref="page-10"/>
-		<itemref idref="page-10-1"/>
-		<itemref idref="page-11"/>
-		<itemref idref="page-12"/>
-		<itemref idref="page-13"/>
-		<itemref idref="page-14"/>
-		<itemref idref="page-15"/>
-		<itemref idref="page-16"/>
-		<itemref idref="page-17"/>
-		<itemref idref="page-18"/>
-		<itemref idref="page-19"/>
-		<itemref idref="page-20"/>
-		<itemref idref="page-20-1"/>
-		<itemref idref="page-21"/>
-		<itemref idref="page-22"/>
-		<itemref idref="page-23"/>
-		<itemref idref="page-24"/>
-		<itemref idref="page-25"/>
-		<itemref idref="page-26"/>
-		<itemref idref="page-27"/>
-		<itemref idref="page-28"/>
-		<itemref idref="page-29"/>
-		<itemref idref="page-30"/>
-		<itemref idref="page-30-1"/>
-		<itemref idref="page-31"/>
-		<itemref idref="page-32"/>
-		<itemref idref="page-33"/>
-		<itemref idref="page-34"/>
-		<itemref idref="page-35"/>
-		<itemref idref="page-35-1"/>
-		<itemref idref="page-36"/>
-		<itemref idref="page-37"/>
-		<itemref idref="page-38"/>
-		<itemref idref="page-39"/>
-		<itemref idref="page-40"/>
-		<itemref idref="page-40-1"/>
-		<itemref idref="page-41"/>
-		<itemref idref="page-42"/>
-		<itemref idref="page-43"/>
-		<itemref idref="page-44"/>
-		<itemref idref="page-45"/>
-		<itemref idref="page-45-1"/>
-		<itemref idref="page-46"/>
-		<itemref idref="page-47"/>
-		<itemref idref="page-48"/>
-		<itemref idref="page-49"/>
-		<itemref idref="page-50"/>
-		<itemref idref="page-50-1"/>
-		<itemref idref="page-50-2"/>
-		<itemref idref="page-51"/>
-		<itemref idref="page-52"/>
-		<itemref idref="page-53"/>
-		<itemref idref="page-54"/>
-		<itemref idref="page-55"/>
-		<itemref idref="page-55-1"/>
-		<itemref idref="page-56"/>
-		<itemref idref="page-57"/>
-		<itemref idref="page-58"/>
-		<itemref idref="page-59"/>
-		<itemref idref="page-60"/>
-		<itemref idref="page-60-1"/>
-		<itemref idref="page-61"/>
-		<itemref idref="page-62"/>
-		<itemref idref="page-63"/>
-		<itemref idref="page-64"/>
-		<itemref idref="page-65"/>
-		<itemref idref="page-65-1"/>
-		<itemref idref="page-66"/>
-		<itemref idref="page-67"/>
-		<itemref idref="page-68"/>
-		<itemref idref="page-69"/>
-		<itemref idref="page-70"/>
-		<itemref idref="page-70-1"/>
-		<itemref idref="page-71"/>
-		<itemref idref="page-72"/>
-		<itemref idref="page-73"/>
-		<itemref idref="page-74"/>
-		<itemref idref="page-75"/>
-		<itemref idref="page-75-1"/>
-		<itemref idref="page-76"/>
-		<itemref idref="page-77"/>
-		<itemref idref="page-78"/>
-		<itemref idref="page-79"/>
-		<itemref idref="page-80"/>
-		<itemref idref="page-80-1"/>
-		<itemref idref="page-81"/>
-		<itemref idref="page-82"/>
-		<itemref idref="page-83"/>
-		<itemref idref="page-84"/>
-		<itemref idref="page-85"/>
-		<itemref idref="page-86"/>
-		<itemref idref="page-85-1"/>
-		<itemref idref="page-85-2"/>
-		<itemref idref="page-87"/>
-		<itemref idref="page-88"/>
-		<itemref idref="page-89"/>
-		<itemref idref="page-90"/>
-		<itemref idref="page-90-1"/>
-		<itemref idref="page-91"/>
-		<itemref idref="page-92"/>
-		<itemref idref="page-93"/>
-		<itemref idref="page-94"/>
-		<itemref idref="page-95"/>
-		<itemref idref="page-95-1"/>
-		<itemref idref="page-96"/>
-		<itemref idref="page-97"/>
-		<itemref idref="page-98"/>
-		<itemref idref="page-99"/>
-		<itemref idref="page-100"/>
-		<itemref idref="page-100-1"/>
-	</spine>
-	<guide>
-		<reference href="text/part0000.html#body-0" title="Title Page" type="title-page"/>
-		<reference href="text/cover1.xhtml" title="Cover 1" type="cover"/>
-		<reference href="text/cover2.xhtml" title="Cover 2" type="cover"/>
-		<reference href="text/cover3.xhtml" title="Cover 3" type="cover"/>
-		<reference href="text/cover4.xhtml" title="Cover 4" type="cover"/>
-	</guide>
+<?xml version="1.0" encoding="utf-8" ?>
+<package unique-identifier="uSG9pXKYYUUNCS47EJwtMh3" version="2.0" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns="http://www.idpf.org/2007/opf">
+    <opf:metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+        <opf:meta content="cover" name="cover" />
+        <opf:meta content="2018-07-06T16:52:38.790000+00:00" name="calibre:timestamp" />
+        <opf:meta content="Kumo Desu Ga, Nani Ka ?" name="calibre:title_sort" />
+        <opf:meta content="horizontal-lr" name="primary-writing-mode" />
+        <opf:meta content="{&quot;Baba Okina&quot;: &quot;&quot;}" name="calibre:author_link_map" />
+        <dc:title>Kumo Desu Ga, Nani Ka ?</dc:title>
+        <dc:creator opf:file-as="Okina, Baba" opf:role="aut">Baba Okina</dc:creator>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:contributor opf:role="bkp">calibre (3.27.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:identifier id="uSG9pXKYYUUNCS47EJwtMh3" opf:scheme="uuid">uSG9pXKYYUUNCS47EJwtMh3</dc:identifier>
+        <dc:language>en</dc:language>
+    </opf:metadata>
+    <manifest>
+        <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+        <item href="style/cover.css" id="css_cover" media-type="text/css" />
+        <item href="style/text.css" id="css_text" media-type="text/css" />
+        <item href="images/cover_1.jpg" id="cover-1" media-type="image/jpeg" />
+        <item href="images/cover_2.jpg" id="cover-2" media-type="image/jpeg" />
+        <item href="images/cover_3.jpg" id="cover-3" media-type="image/jpeg" />
+        <item href="images/cover_4.jpg" id="cover-4" media-type="image/jpeg" />
+        <item href="images/cover.jpg" id="cover" media-type="image/jpeg" />
+        <item href="text/part0000.html" id="page-0" media-type="application/xhtml+xml" />
+        <item href="text/cover1.xhtml" id="cover-html-1" media-type="application/xhtml+xml" />
+        <item href="text/cover2.xhtml" id="cover-html-2" media-type="application/xhtml+xml" />
+        <item href="text/cover3.xhtml" id="cover-html-3" media-type="application/xhtml+xml" />
+        <item href="text/cover4.xhtml" id="cover-html-4" media-type="application/xhtml+xml" />
+        <item href="text/part0001.html" id="page-1" media-type="application/xhtml+xml" />
+        <item href="text/part0002.html" id="page-2" media-type="application/xhtml+xml" />
+        <item href="text/part0003.html" id="page-3" media-type="application/xhtml+xml" />
+        <item href="text/part0004.html" id="page-4" media-type="application/xhtml+xml" />
+        <item href="text/part0005.html" id="page-5" media-type="application/xhtml+xml" />
+        <item href="text/part0006.html" id="page-6" media-type="application/xhtml+xml" />
+        <item href="text/part0007.html" id="page-7" media-type="application/xhtml+xml" />
+        <item href="text/part0008.html" id="page-8" media-type="application/xhtml+xml" />
+        <item href="text/part0009.html" id="page-9" media-type="application/xhtml+xml" />
+        <item href="text/part0010.html" id="page-10" media-type="application/xhtml+xml" />
+        <item href="text/part0010-1.html" id="page-10-1" media-type="application/xhtml+xml" />
+        <item href="text/part0011.html" id="page-11" media-type="application/xhtml+xml" />
+        <item href="text/part0012.html" id="page-12" media-type="application/xhtml+xml" />
+        <item href="text/part0013.html" id="page-13" media-type="application/xhtml+xml" />
+        <item href="text/part0014.html" id="page-14" media-type="application/xhtml+xml" />
+        <item href="text/part0015.html" id="page-15" media-type="application/xhtml+xml" />
+        <item href="text/part0016.html" id="page-16" media-type="application/xhtml+xml" />
+        <item href="text/part0017.html" id="page-17" media-type="application/xhtml+xml" />
+        <item href="text/part0018.html" id="page-18" media-type="application/xhtml+xml" />
+        <item href="text/part0019.html" id="page-19" media-type="application/xhtml+xml" />
+        <item href="text/part0020.html" id="page-20" media-type="application/xhtml+xml" />
+        <item href="text/part0020-1.html" id="page-20-1" media-type="application/xhtml+xml" />
+        <item href="text/part0021.html" id="page-21" media-type="application/xhtml+xml" />
+        <item href="text/part0022.html" id="page-22" media-type="application/xhtml+xml" />
+        <item href="text/part0023.html" id="page-23" media-type="application/xhtml+xml" />
+        <item href="text/part0024.html" id="page-24" media-type="application/xhtml+xml" />
+        <item href="text/part0025.html" id="page-25" media-type="application/xhtml+xml" />
+        <item href="text/part0026.html" id="page-26" media-type="application/xhtml+xml" />
+        <item href="text/part0027.html" id="page-27" media-type="application/xhtml+xml" />
+        <item href="text/part0028.html" id="page-28" media-type="application/xhtml+xml" />
+        <item href="text/part0029.html" id="page-29" media-type="application/xhtml+xml" />
+        <item href="text/part0030.html" id="page-30" media-type="application/xhtml+xml" />
+        <item href="text/part0030-1.html" id="page-30-1" media-type="application/xhtml+xml" />
+        <item href="text/part0031.html" id="page-31" media-type="application/xhtml+xml" />
+        <item href="text/part0032.html" id="page-32" media-type="application/xhtml+xml" />
+        <item href="text/part0033.html" id="page-33" media-type="application/xhtml+xml" />
+        <item href="text/part0034.html" id="page-34" media-type="application/xhtml+xml" />
+        <item href="text/part0035.html" id="page-35" media-type="application/xhtml+xml" />
+        <item href="text/part0035-1.html" id="page-35-1" media-type="application/xhtml+xml" />
+        <item href="text/part0036.html" id="page-36" media-type="application/xhtml+xml" />
+        <item href="text/part0037.html" id="page-37" media-type="application/xhtml+xml" />
+        <item href="text/part0038.html" id="page-38" media-type="application/xhtml+xml" />
+        <item href="text/part0039.html" id="page-39" media-type="application/xhtml+xml" />
+        <item href="text/part0040.html" id="page-40" media-type="application/xhtml+xml" />
+        <item href="text/part0040-1.html" id="page-40-1" media-type="application/xhtml+xml" />
+        <item href="text/part0041.html" id="page-41" media-type="application/xhtml+xml" />
+        <item href="text/part0042.html" id="page-42" media-type="application/xhtml+xml" />
+        <item href="text/part0043.html" id="page-43" media-type="application/xhtml+xml" />
+        <item href="text/part0044.html" id="page-44" media-type="application/xhtml+xml" />
+        <item href="text/part0045.html" id="page-45" media-type="application/xhtml+xml" />
+        <item href="text/part0045-1.html" id="page-45-1" media-type="application/xhtml+xml" />
+        <item href="text/part0046.html" id="page-46" media-type="application/xhtml+xml" />
+        <item href="text/part0047.html" id="page-47" media-type="application/xhtml+xml" />
+        <item href="text/part0048.html" id="page-48" media-type="application/xhtml+xml" />
+        <item href="text/part0049.html" id="page-49" media-type="application/xhtml+xml" />
+        <item href="text/part0050.html" id="page-50" media-type="application/xhtml+xml" />
+        <item href="text/part0050-1.html" id="page-50-1" media-type="application/xhtml+xml" />
+        <item href="text/part050-2.html" id="page-50-2" media-type="application/xhtml+xml" />
+        <item href="text/part0051.html" id="page-51" media-type="application/xhtml+xml" />
+        <item href="text/part0052.html" id="page-52" media-type="application/xhtml+xml" />
+        <item href="text/part0053.html" id="page-53" media-type="application/xhtml+xml" />
+        <item href="text/part0054.html" id="page-54" media-type="application/xhtml+xml" />
+        <item href="text/part0055.html" id="page-55" media-type="application/xhtml+xml" />
+        <item href="text/part0055-1.html" id="page-55-1" media-type="application/xhtml+xml" />
+        <item href="text/part0056.html" id="page-56" media-type="application/xhtml+xml" />
+        <item href="text/part0057.html" id="page-57" media-type="application/xhtml+xml" />
+        <item href="text/part0058.html" id="page-58" media-type="application/xhtml+xml" />
+        <item href="text/part0059.html" id="page-59" media-type="application/xhtml+xml" />
+        <item href="text/part0060.html" id="page-60" media-type="application/xhtml+xml" />
+        <item href="text/part0060-1.html" id="page-60-1" media-type="application/xhtml+xml" />
+        <item href="text/part0061.html" id="page-61" media-type="application/xhtml+xml" />
+        <item href="text/part0062.html" id="page-62" media-type="application/xhtml+xml" />
+        <item href="text/part0063.html" id="page-63" media-type="application/xhtml+xml" />
+        <item href="text/part0064.html" id="page-64" media-type="application/xhtml+xml" />
+        <item href="text/part0065.html" id="page-65" media-type="application/xhtml+xml" />
+        <item href="text/part0065-1.html" id="page-65-1" media-type="application/xhtml+xml" />
+        <item href="text/part0066.html" id="page-66" media-type="application/xhtml+xml" />
+        <item href="text/part0067.html" id="page-67" media-type="application/xhtml+xml" />
+        <item href="text/part0068.html" id="page-68" media-type="application/xhtml+xml" />
+        <item href="text/part0069.html" id="page-69" media-type="application/xhtml+xml" />
+        <item href="text/part0070.html" id="page-70" media-type="application/xhtml+xml" />
+        <item href="text/part0070-1.html" id="page-70-1" media-type="application/xhtml+xml" />
+        <item href="text/part0071.html" id="page-71" media-type="application/xhtml+xml" />
+        <item href="text/part0072.html" id="page-72" media-type="application/xhtml+xml" />
+        <item href="text/part0073.html" id="page-73" media-type="application/xhtml+xml" />
+        <item href="text/part0074.html" id="page-74" media-type="application/xhtml+xml" />
+        <item href="text/part0075.html" id="page-75" media-type="application/xhtml+xml" />
+        <item href="text/part0075-1.html" id="page-75-1" media-type="application/xhtml+xml" />
+        <item href="text/part0076.html" id="page-76" media-type="application/xhtml+xml" />
+        <item href="text/part0077.html" id="page-77" media-type="application/xhtml+xml" />
+        <item href="text/part0078.html" id="page-78" media-type="application/xhtml+xml" />
+        <item href="text/part0079.html" id="page-79" media-type="application/xhtml+xml" />
+        <item href="text/part0080.html" id="page-80" media-type="application/xhtml+xml" />
+        <item href="text/part0080-1.html" id="page-80-1" media-type="application/xhtml+xml" />
+        <item href="text/part0081.html" id="page-81" media-type="application/xhtml+xml" />
+        <item href="text/part0082.html" id="page-82" media-type="application/xhtml+xml" />
+        <item href="text/part0083.html" id="page-83" media-type="application/xhtml+xml" />
+        <item href="text/part0084.html" id="page-84" media-type="application/xhtml+xml" />
+        <item href="text/part0085.html" id="page-85" media-type="application/xhtml+xml" />
+        <item href="text/part0086.html" id="page-86" media-type="application/xhtml+xml" />
+        <item href="text/part0085-1.html" id="page-85-1" media-type="application/xhtml+xml" />
+        <item href="text/part0085-2.html" id="page-85-2" media-type="application/xhtml+xml" />
+        <item href="text/part0087.html" id="page-87" media-type="application/xhtml+xml" />
+        <item href="text/part0088.html" id="page-88" media-type="application/xhtml+xml" />
+        <item href="text/part0089.html" id="page-89" media-type="application/xhtml+xml" />
+        <item href="text/part0090.html" id="page-90" media-type="application/xhtml+xml" />
+        <item href="text/part0090-1.html" id="page-90-1" media-type="application/xhtml+xml" />
+        <item href="text/part0091.html" id="page-91" media-type="application/xhtml+xml" />
+        <item href="text/part0092.html" id="page-92" media-type="application/xhtml+xml" />
+        <item href="text/part0093.html" id="page-93" media-type="application/xhtml+xml" />
+        <item href="text/part0094.html" id="page-94" media-type="application/xhtml+xml" />
+        <item href="text/part0095.html" id="page-95" media-type="application/xhtml+xml" />
+        <item href="text/part0095-1.html" id="page-95-1" media-type="application/xhtml+xml" />
+        <item href="text/part0096.html" id="page-96" media-type="application/xhtml+xml" />
+        <item href="text/part0097.html" id="page-97" media-type="application/xhtml+xml" />
+        <item href="text/part0098.html" id="page-98" media-type="application/xhtml+xml" />
+        <item href="text/part0099.html" id="page-99" media-type="application/xhtml+xml" />
+        <item href="text/part0100.html" id="page-100" media-type="application/xhtml+xml" />
+        <item href="text/part0100-1.html" id="page-100-1" media-type="application/xhtml+xml" />
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="page-0" />
+        <itemref idref="cover-html-1" />
+        <itemref idref="cover-html-2" />
+        <itemref idref="cover-html-3" />
+        <itemref idref="cover-html-4" />
+        <itemref idref="page-1" />
+        <itemref idref="page-2" />
+        <itemref idref="page-3" />
+        <itemref idref="page-4" />
+        <itemref idref="page-5" />
+        <itemref idref="page-6" />
+        <itemref idref="page-7" />
+        <itemref idref="page-8" />
+        <itemref idref="page-9" />
+        <itemref idref="page-10" />
+        <itemref idref="page-10-1" />
+        <itemref idref="page-11" />
+        <itemref idref="page-12" />
+        <itemref idref="page-13" />
+        <itemref idref="page-14" />
+        <itemref idref="page-15" />
+        <itemref idref="page-16" />
+        <itemref idref="page-17" />
+        <itemref idref="page-18" />
+        <itemref idref="page-19" />
+        <itemref idref="page-20" />
+        <itemref idref="page-20-1" />
+        <itemref idref="page-21" />
+        <itemref idref="page-22" />
+        <itemref idref="page-23" />
+        <itemref idref="page-24" />
+        <itemref idref="page-25" />
+        <itemref idref="page-26" />
+        <itemref idref="page-27" />
+        <itemref idref="page-28" />
+        <itemref idref="page-29" />
+        <itemref idref="page-30" />
+        <itemref idref="page-30-1" />
+        <itemref idref="page-31" />
+        <itemref idref="page-32" />
+        <itemref idref="page-33" />
+        <itemref idref="page-34" />
+        <itemref idref="page-35" />
+        <itemref idref="page-35-1" />
+        <itemref idref="page-36" />
+        <itemref idref="page-37" />
+        <itemref idref="page-38" />
+        <itemref idref="page-39" />
+        <itemref idref="page-40" />
+        <itemref idref="page-40-1" />
+        <itemref idref="page-41" />
+        <itemref idref="page-42" />
+        <itemref idref="page-43" />
+        <itemref idref="page-44" />
+        <itemref idref="page-45" />
+        <itemref idref="page-45-1" />
+        <itemref idref="page-46" />
+        <itemref idref="page-47" />
+        <itemref idref="page-48" />
+        <itemref idref="page-49" />
+        <itemref idref="page-50" />
+        <itemref idref="page-50-1" />
+        <itemref idref="page-50-2" />
+        <itemref idref="page-51" />
+        <itemref idref="page-52" />
+        <itemref idref="page-53" />
+        <itemref idref="page-54" />
+        <itemref idref="page-55" />
+        <itemref idref="page-55-1" />
+        <itemref idref="page-56" />
+        <itemref idref="page-57" />
+        <itemref idref="page-58" />
+        <itemref idref="page-59" />
+        <itemref idref="page-60" />
+        <itemref idref="page-60-1" />
+        <itemref idref="page-61" />
+        <itemref idref="page-62" />
+        <itemref idref="page-63" />
+        <itemref idref="page-64" />
+        <itemref idref="page-65" />
+        <itemref idref="page-65-1" />
+        <itemref idref="page-66" />
+        <itemref idref="page-67" />
+        <itemref idref="page-68" />
+        <itemref idref="page-69" />
+        <itemref idref="page-70" />
+        <itemref idref="page-70-1" />
+        <itemref idref="page-71" />
+        <itemref idref="page-72" />
+        <itemref idref="page-73" />
+        <itemref idref="page-74" />
+        <itemref idref="page-75" />
+        <itemref idref="page-75-1" />
+        <itemref idref="page-76" />
+        <itemref idref="page-77" />
+        <itemref idref="page-78" />
+        <itemref idref="page-79" />
+        <itemref idref="page-80" />
+        <itemref idref="page-80-1" />
+        <itemref idref="page-81" />
+        <itemref idref="page-82" />
+        <itemref idref="page-83" />
+        <itemref idref="page-84" />
+        <itemref idref="page-85" />
+        <itemref idref="page-86" />
+        <itemref idref="page-85-1" />
+        <itemref idref="page-85-2" />
+        <itemref idref="page-87" />
+        <itemref idref="page-88" />
+        <itemref idref="page-89" />
+        <itemref idref="page-90" />
+        <itemref idref="page-90-1" />
+        <itemref idref="page-91" />
+        <itemref idref="page-92" />
+        <itemref idref="page-93" />
+        <itemref idref="page-94" />
+        <itemref idref="page-95" />
+        <itemref idref="page-95-1" />
+        <itemref idref="page-96" />
+        <itemref idref="page-97" />
+        <itemref idref="page-98" />
+        <itemref idref="page-99" />
+        <itemref idref="page-100" />
+        <itemref idref="page-100-1" />
+    </spine>
+    <guide>
+        <reference href="text/part0000.html#body-0" title="Title Page" type="title-page" />
+        <reference href="text/cover1.xhtml" title="Cover 1" type="cover" />
+        <reference href="text/cover2.xhtml" title="Cover 2" type="cover" />
+        <reference href="text/cover3.xhtml" title="Cover 3" type="cover" />
+        <reference href="text/cover4.xhtml" title="Cover 4" type="cover" />
+    </guide>
 </package>
